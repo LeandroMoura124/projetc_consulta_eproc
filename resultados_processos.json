@@ -1,3601 +1,557 @@
 {
-    "ADILSON DA SILVA": [
-        {
-            "nome_parte": "ADELSON RIBEIRO DA SILVA",
-            "cpf_cnpj": "027.**********"
-        },
-        {
-            "nome_parte": "ADELSON SILVA",
-            "cpf_cnpj": "110.**********"
-        },
-        {
-            "nome_parte": "ADILSON AFONSO DA SILVA",
-            "cpf_cnpj": "359.**********"
-        },
-        {
-            "nome_parte": "ADILSON ALVES DA SILVA",
-            "cpf_cnpj": "006.**********"
-        },
-        {
-            "nome_parte": "ADILSON ANTONIO DA SILVA",
-            "cpf_cnpj": "385.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA",
-            "cpf_cnpj": "035.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA MOLINARI",
-            "cpf_cnpj": "315.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA MONTEIRO",
-            "cpf_cnpj": "827.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA MOREIRA",
-            "cpf_cnpj": "735.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA NOVAIS",
-            "cpf_cnpj": "311.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA PEREIRA",
-            "cpf_cnpj": "700.**********"
-        },
-        {
-            "nome_parte": "ADILSON DA SILVA ROCHA",
-            "cpf_cnpj": "102.**********"
-        },
-        {
-            "nome_parte": "ADILSON FERREIRA DA SILVA",
-            "cpf_cnpj": "558.**********"
-        },
-        {
-            "nome_parte": "ADILSON GAIA DA SILVA",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "ADILSON GIL DA SILVA",
-            "cpf_cnpj": "03.7**************"
-        },
-        {
-            "nome_parte": "ADILSON GIL DA SILVA",
-            "cpf_cnpj": "525.**********"
-        },
-        {
-            "nome_parte": "ADILSON GOMES DA SILVA",
-            "cpf_cnpj": "747.**********"
-        },
-        {
-            "nome_parte": "ADILSON INACIO DA SILVA",
-            "cpf_cnpj": "522.**********"
-        },
-        {
-            "nome_parte": "ADILSON JOSE DA SILVA",
-            "cpf_cnpj": "695.**********"
-        },
-        {
-            "nome_parte": "ADILSON JUNIOR ROMUALDO SILVA",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "ADILSON LOPES DA SILVA",
-            "cpf_cnpj": "559.**********"
-        },
-        {
-            "nome_parte": "ADILSON MARTINS DA SILVA",
-            "cpf_cnpj": "067.**********"
-        },
-        {
-            "nome_parte": "ADILSON PINTO DA SILVA",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "ADILSON SILVA DE AMORIM",
-            "cpf_cnpj": "781.**********"
-        },
-        {
-            "nome_parte": "ADILSON SILVA SANTOS",
-            "cpf_cnpj": "735.**********"
-        },
-        {
-            "nome_parte": "ADILSON SILVA VILLELA",
-            "cpf_cnpj": "949.**********"
-        },
-        {
-            "nome_parte": "JOSE ADILSON DA SILVA",
-            "cpf_cnpj": "608.**********"
-        }
-    ],
     "JOÂO DA SILVA MORAES": [
         {
+            "url_lista_processos": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11759846380359885563337604678",
             "nome_parte": "JOAO PAULO DA SILVA MORAIS",
-            "cpf_cnpj": "118.**********"
+            "cpf_cnpj": "118.**********",
+            "processos": [
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10641811020258130024&num_chave=&hash=35a2826411f2727eba7a62913e2ff4d9&num_chave_documento=",
+                    "numero_processo": "1064181-10.2025.8.13.0024",
+                    "autor": "PITAGORAS SISTEMA DE EDUCACAO SUPERIOR SOCIEDADE S.A.",
+                    "reu": "JOAO PAULO DA SILVA MORAIS",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "Juízo da 33ª Vara Cível da Comarca de Belo Horizonte",
+                        "valor_causa": "61.027,45",
+                        "eventos": [
+                            {
+                                "seq": "11",
+                                "data_hora": "10/10/2025 04:00:50",
+                                "descricao": "Publicado no DJEN - no dia 10/10/2025 - Refer. ao Evento: 8",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "10",
+                                "data_hora": "09/10/2025 02:01:14",
+                                "descricao": "Disponibilizado no DJEN - no dia 09/10/2025 - Refer. ao Evento: 8",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "9",
+                                "data_hora": "08/10/2025 08:25:25",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 09/10/2025 - Refer. ao Evento: 8",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "8",
+                                "data_hora": "08/10/2025 07:45:39",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 5\n(AUTOR - PITAGORAS SISTEMA DE EDUCACAO SUPERIOR SOCIEDADE S.A.)\nPrazo: 5 dias Status:ABERTO\nData inicial da contagem do prazo: 13/10/2025 00:00:00\nData final: 17/10/2025 23:59:59",
+                                "usuario": "f0231829"
+                            },
+                            {
+                                "seq": "7",
+                                "data_hora": "08/10/2025 02:03:25",
+                                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 08/10/2025",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "6",
+                                "data_hora": "07/10/2025 16:00:49",
+                                "descricao": "Remetidos os Autos (outros motivos) para a Vara/Turma de Origem - DISTRBHE -> BHE 33ª V.C.",
+                                "usuario": "f0154450"
+                            },
+                            {
+                                "seq": "5",
+                                "data_hora": "07/10/2025 15:59:21",
+                                "descricao": "Expedição de Certidão",
+                                "usuario": "f0154450"
+                            },
+                            {
+                                "seq": "4",
+                                "data_hora": "07/10/2025 11:30:15",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 08/10/2025",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "3",
+                                "data_hora": "07/10/2025 11:28:40",
+                                "descricao": "Juntada de certidão",
+                                "usuario": "secautoloc"
+                            },
+                            {
+                                "seq": "2",
+                                "data_hora": "07/10/2025 11:28:38",
+                                "descricao": "Remetidos os Autos (outros motivos) para a Vara/Turma de Origem - BHE 33ª V.C. -> DISTRBHE",
+                                "usuario": "secautoloc"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ],
     "RICARDO DE JESUS": [
         {
+            "url_lista_processos": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11744055603505111117567056790",
             "nome_parte": "HELDER RICARDO DE JESUS NASCIMENTO",
-            "cpf_cnpj": "100.**********"
+            "cpf_cnpj": "100.**********",
+            "processos": [
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10024163820258130024&num_chave=&hash=fd6d27bb239413d9c60df3ac60be17d6&num_chave_documento=",
+                    "numero_processo": "1002416-38.2025.8.13.0024",
+                    "autor": "HELDER RICARDO DE JESUS NASCIMENTO\ne outros",
+                    "reu": "",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "Juízo da 1ª Vara Cível da Comarca de Belo Horizonte",
+                        "valor_causa": "500,00",
+                        "eventos": [
+                            {
+                                "seq": "43",
+                                "data_hora": "24/09/2025 04:07:30",
+                                "descricao": "Publicado no DJEN - no dia 24/09/2025 - Refer. aos Eventos: 37, 38, 39, 40, 41",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "42",
+                                "data_hora": "23/09/2025 02:07:37",
+                                "descricao": "Disponibilizado no DJEN - no dia 23/09/2025 - Refer. aos Eventos: 37, 38, 39, 40, 41",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "41",
+                                "data_hora": "22/09/2025 17:42:17",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 36\n(REQUERENTE - NAZARETH DE JESUS DO NASCIMENTO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 25/09/2025 00:00:00\nData final: 15/10/2025 23:59:59",
+                                "usuario": "f0124511"
+                            },
+                            {
+                                "seq": "40",
+                                "data_hora": "22/09/2025 17:42:16",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 36\n(REQUERENTE - LUCIENE DE JESUS DO NASCIMENTO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 25/09/2025 00:00:00\nData final: 15/10/2025 23:59:59",
+                                "usuario": "f0124511"
+                            },
+                            {
+                                "seq": "39",
+                                "data_hora": "22/09/2025 17:42:16",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 36\n(REQUERENTE - JUNIO DE JESUS DO NASCIMENTO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 25/09/2025 00:00:00\nData final: 15/10/2025 23:59:59",
+                                "usuario": "f0124511"
+                            },
+                            {
+                                "seq": "38",
+                                "data_hora": "22/09/2025 17:42:16",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 36\n(REQUERENTE - HELDER RICARDO DE JESUS NASCIMENTO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 25/09/2025 00:00:00\nData final: 15/10/2025 23:59:59",
+                                "usuario": "f0124511"
+                            },
+                            {
+                                "seq": "37",
+                                "data_hora": "22/09/2025 17:42:16",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 36\n(REQUERENTE - EDUARDO HENRIQUE DE JESUS DO NASCIMENTO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 25/09/2025 00:00:00\nData final: 15/10/2025 23:59:59",
+                                "usuario": "f0124511"
+                            },
+                            {
+                                "seq": "36",
+                                "data_hora": "22/09/2025 16:24:48",
+                                "descricao": "Proferido despacho de mero expediente",
+                                "usuario": "t0033209"
+                            },
+                            {
+                                "seq": "35",
+                                "data_hora": "12/08/2025 08:52:42",
+                                "descricao": "Conclusos para Despacho",
+                                "usuario": "f0114421"
+                            },
+                            {
+                                "seq": "34",
+                                "data_hora": "11/08/2025 17:15:00",
+                                "descricao": "PETIÇÃO - Refer. aos Eventos: 27, 28, 29, 31 e 30",
+                                "usuario": "MG106027"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10024199020258130024&num_chave=&hash=31a905051f42123b7f4af85909db848e&num_chave_documento=",
+                    "numero_processo": "1002419-90.2025.8.13.0024",
+                    "autor": "HELDER RICARDO DE JESUS NASCIMENTO\ne outros",
+                    "reu": "MUNICIPIO DE BELO HORIZONTE",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "2ª Vara de Feitos da Fazenda Pública Municipal da Comarca de Belo Horizonte",
+                        "valor_causa": "50.000,00",
+                        "eventos": [
+                            {
+                                "seq": "22",
+                                "data_hora": "13/05/2025 09:28:52",
+                                "descricao": "Baixa Definitiva",
+                                "usuario": "f0037697"
+                            },
+                            {
+                                "seq": "21",
+                                "data_hora": "07/05/2025 01:00:26",
+                                "descricao": "Decorrido prazo - Refer. aos Eventos: 13, 14, 15 e 16",
+                                "usuario": "SECFP"
+                            },
+                            {
+                                "seq": "20",
+                                "data_hora": "30/04/2025 01:00:12",
+                                "descricao": "Decorrido prazo - Refer. aos Eventos: 8, 9, 10 e 11",
+                                "usuario": "SECFP"
+                            },
+                            {
+                                "seq": "19",
+                                "data_hora": "28/04/2025 22:34:21",
+                                "descricao": "PETIÇÃO",
+                                "usuario": "MG106027"
+                            },
+                            {
+                                "seq": "18",
+                                "data_hora": "25/04/2025 23:59:59",
+                                "descricao": "Confirmada a intimação eletrônica - Refer. aos Eventos: 13, 14, 15 e 16",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "17",
+                                "data_hora": "21/04/2025 23:59:59",
+                                "descricao": "Confirmada a intimação eletrônica - Refer. aos Eventos: 8, 9, 10 e 11",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "16",
+                                "data_hora": "15/04/2025 15:31:30",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 12\n(REQUERENTE - NAZARETH DE JESUS DO NASCIMENTO)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 28/04/2025 00:00:00\nData final: 06/05/2025 23:59:59",
+                                "usuario": "f0207167"
+                            },
+                            {
+                                "seq": "15",
+                                "data_hora": "15/04/2025 15:31:29",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 12\n(REQUERENTE - JUNIO DE JESUS DO NASCIMENTO)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 28/04/2025 00:00:00\nData final: 06/05/2025 23:59:59",
+                                "usuario": "f0207167"
+                            },
+                            {
+                                "seq": "14",
+                                "data_hora": "15/04/2025 15:31:29",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 12\n(REQUERENTE - HELDER RICARDO DE JESUS NASCIMENTO)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 28/04/2025 00:00:00\nData final: 06/05/2025 23:59:59",
+                                "usuario": "f0207167"
+                            },
+                            {
+                                "seq": "13",
+                                "data_hora": "15/04/2025 15:31:29",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 12\n(REQUERENTE - EDUARDO HENRIQUE DE JESUS DO NASCIMENTO)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 28/04/2025 00:00:00\nData final: 06/05/2025 23:59:59",
+                                "usuario": "f0207167"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
+            "url_lista_processos": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11752008113257867781416124661",
             "nome_parte": "LUIZ RICARDO TORRES SILVA DE JESUS",
-            "cpf_cnpj": "015.**********"
+            "cpf_cnpj": "015.**********",
+            "processos": [
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10267391020258130024&num_chave=&hash=cc0fa4e844a82de40d4473ed0bf419cc&num_chave_documento=",
+                    "numero_processo": "1026739-10.2025.8.13.0024",
+                    "autor": "LUIZ RICARDO TORRES SILVA DE JESUS",
+                    "reu": "ITAU UNIBANCO HOLDING S.A.",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "Juízo da 2ª Vara Regional do Barreiro",
+                        "valor_causa": "9.915,94",
+                        "eventos": [
+                            {
+                                "seq": "48",
+                                "data_hora": "14/10/2025 15:55:01",
+                                "descricao": "PETIÇÃO - Refer. ao Evento: 44",
+                                "usuario": "MG241454"
+                            },
+                            {
+                                "seq": "47",
+                                "data_hora": "14/10/2025 04:02:51",
+                                "descricao": "Publicado no DJEN - no dia 14/10/2025 - Refer. ao Evento: 44",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "46",
+                                "data_hora": "13/10/2025 02:01:38",
+                                "descricao": "Disponibilizado no DJEN - no dia 13/10/2025 - Refer. ao Evento: 44",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "45",
+                                "data_hora": "10/10/2025 18:18:04",
+                                "descricao": "Comunicação eletrônica recebida - decisão proferida em Agravo de Instrumento\nNúmero: 27942434720258130000/TJMG",
+                                "usuario": "T0023127"
+                            },
+                            {
+                                "seq": "44",
+                                "data_hora": "10/10/2025 09:27:31",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 43 (Doc. DEC1)\n(AUTOR - LUIZ RICARDO TORRES SILVA DE JESUS)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 15/10/2025 00:00:00\nData final: 21/10/2025 23:59:59",
+                                "usuario": "f0122432"
+                            },
+                            {
+                                "seq": "43",
+                                "data_hora": "06/10/2025 17:32:41",
+                                "descricao": "Outras decisões",
+                                "usuario": "t0023259"
+                            },
+                            {
+                                "seq": "42",
+                                "data_hora": "06/10/2025 17:12:40",
+                                "descricao": "Comunicação eletrônica recebida - decisão proferida em Agravo de Instrumento (2ª Seção Cível)\nNúmero: 27942434720258130000/TJMG",
+                                "usuario": "T0109157"
+                            },
+                            {
+                                "seq": "41",
+                                "data_hora": "03/10/2025 15:58:41",
+                                "descricao": "Conclusos para Despacho",
+                                "usuario": "f0122432"
+                            },
+                            {
+                                "seq": "40",
+                                "data_hora": "02/10/2025 17:28:05",
+                                "descricao": "PETIÇÃO",
+                                "usuario": "MG241454"
+                            },
+                            {
+                                "seq": "39",
+                                "data_hora": "30/09/2025 01:05:36",
+                                "descricao": "Decorrido prazo - Refer. ao Evento: 30",
+                                "usuario": "SECFP"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
+            "url_lista_processos": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11760495569568630981358875068",
             "nome_parte": "RICARDO CONCEICAO DE JESUS",
-            "cpf_cnpj": "010.**********"
+            "cpf_cnpj": "010.**********",
+            "processos": [
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10692736620258130024&num_chave=&hash=31a610f4b71dfbaede665e185f9205de&num_chave_documento=",
+                    "numero_processo": "1069273-66.2025.8.13.0024",
+                    "autor": "RICARDO CONCEICAO DE JESUS",
+                    "reu": "ESTADO DE MINAS GERAIS\ne outros",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "Juízo da 2ª Unidade Jurisdicional da Fazenda Pública do Juizado Especial 31º JD Belo Horizonte",
+                        "valor_causa": "10.000,00",
+                        "eventos": [
+                            {
+                                "seq": "8",
+                                "data_hora": "15/10/2025 02:13:25",
+                                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 15/10/2025",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "7",
+                                "data_hora": "15/10/2025 00:00:06",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 16/10/2025 - Refer. ao Evento: 5",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "6",
+                                "data_hora": "14/10/2025 23:45:05",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 15/10/2025",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "5",
+                                "data_hora": "14/10/2025 23:43:37",
+                                "descricao": "Expedida/certificada a intimação eletrônica - Audiência\nRefer. ao Evento 4\n(REQUERENTE - RICARDO CONCEICAO DE JESUS)\nPrazo: 5 dias Status:AGUARD. ABERTURA\nDiário de Justiça Eletrônico Nacional: Enviado em 15/10/2025 para disponibilização em 16/10/2025",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "4",
+                                "data_hora": "14/10/2025 23:43:36",
+                                "descricao": "Audiência de conciliação designada - Local Sala de audiência de conciliação - 19/03/2026 07:30",
+                                "usuario": "BA031883"
+                            },
+                            {
+                                "seq": "3",
+                                "data_hora": "14/10/2025 23:43:36",
+                                "descricao": "Juntada de certidão",
+                                "usuario": "secautoloc"
+                            },
+                            {
+                                "seq": "2",
+                                "data_hora": "14/10/2025 23:43:33",
+                                "descricao": "Autos incluídos no Juízo 100% Digital",
+                                "usuario": "BA031883"
+                            },
+                            {
+                                "seq": "1",
+                                "data_hora": "14/10/2025 23:43:32",
+                                "descricao": "Distribuído por sorteio (BHE 2ªUJF 31ºJD J)",
+                                "usuario": "BA031883"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
+            "url_lista_processos": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11757097637529044395256127064",
             "nome_parte": "RICARDO JESUS BECALLI",
-            "cpf_cnpj": "680.**********"
+            "cpf_cnpj": "680.**********",
+            "processos": [
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10472563620258130024&num_chave=&hash=67b25b53a076cbf75c905be9cefd7b0f&num_chave_documento=",
+                    "numero_processo": "1047256-36.2025.8.13.0024",
+                    "autor": "MONICA PAULA BECALLI",
+                    "reu": "RICARDO JESUS BECALLI\ne outros",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "Juízo da Vara de Registros Públicos da Comarca de Belo Horizonte",
+                        "valor_causa": "231.777,00",
+                        "eventos": [
+                            {
+                                "seq": "13",
+                                "data_hora": "11/09/2025 04:07:07",
+                                "descricao": "Publicado no DJEN - no dia 11/09/2025 - Refer. ao Evento: 10",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "12",
+                                "data_hora": "10/09/2025 02:07:12",
+                                "descricao": "Disponibilizado no DJEN - no dia 10/09/2025 - Refer. ao Evento: 10",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "11",
+                                "data_hora": "09/09/2025 18:00:25",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 10/09/2025 - Refer. ao Evento: 10",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "10",
+                                "data_hora": "09/09/2025 17:44:14",
+                                "descricao": "Expedida/certificada a intimação eletrônica\nRefer. ao Evento 9\n(AUTOR - MONICA PAULA BECALLI)\nPrazo: 30 dias Status:ABERTO\nData inicial da contagem do prazo: 12/09/2025 00:00:00\nData final: 23/10/2025 23:59:59",
+                                "usuario": "f0204149"
+                            },
+                            {
+                                "seq": "9",
+                                "data_hora": "09/09/2025 17:44:13",
+                                "descricao": "Ato ordinatório praticado",
+                                "usuario": "f0204149"
+                            },
+                            {
+                                "seq": "8",
+                                "data_hora": "09/09/2025 02:00:48",
+                                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 09/09/2025",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "7",
+                                "data_hora": "08/09/2025 18:49:22",
+                                "descricao": "Remetidos os Autos (outros motivos) para a Vara/Turma de Origem - DISTRBHE -> BHE V.Rg.Pb",
+                                "usuario": "f0242701"
+                            },
+                            {
+                                "seq": "6",
+                                "data_hora": "08/09/2025 18:48:19",
+                                "descricao": "Expedição de Certidão",
+                                "usuario": "f0242701"
+                            },
+                            {
+                                "seq": "5",
+                                "data_hora": "08/09/2025 10:05:06",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 09/09/2025",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "4",
+                                "data_hora": "08/09/2025 10:03:25",
+                                "descricao": "Juntada de certidão",
+                                "usuario": "secautoloc"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
+            "url_lista_processos": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11756732857334787676791366772",
             "nome_parte": "RICARDO URIAS DE JESUS",
-            "cpf_cnpj": "016.**********"
+            "cpf_cnpj": "016.**********",
+            "processos": [
+                {
+                    "url_detalhes": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=50230985820168130024&num_chave=&hash=0eb33fb003e3027066f3fba820ada7d3&num_chave_documento=",
+                    "numero_processo": "5023098-58.2016.8.13.0024",
+                    "autor": "RICARDO URIAS DE JESUS",
+                    "reu": "ESTADO DE MINAS GERAIS",
+                    "assunto": "",
+                    "ultimo_evento": "",
+                    "detalhes": {
+                        "orgao_julgador": "1ª Vara da Fazenda Pública e Autarquias da Comarca de Belo Horizonte",
+                        "valor_causa": "76.518,26",
+                        "eventos": [
+                            {
+                                "seq": "56",
+                                "data_hora": "02/09/2025 15:25:15",
+                                "descricao": "PETIÇÃO",
+                                "usuario": "040********"
+                            },
+                            {
+                                "seq": "55",
+                                "data_hora": "02/09/2025 02:03:25",
+                                "descricao": "Disponibilizado no Diário Eletrônico - Ato Ordinatório - no dia 02/09/2025",
+                                "usuario": "secde"
+                            },
+                            {
+                                "seq": "54",
+                                "data_hora": "01/09/2025 10:30:10",
+                                "descricao": "Ato ordinatório praticado Documento encaminhado à disponibilização no Diário Eletrônico - no dia 02/09/2025",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "53",
+                                "data_hora": "01/09/2025 10:27:05",
+                                "descricao": "Juntada de certidão",
+                                "usuario": "secautoloc"
+                            },
+                            {
+                                "seq": "52",
+                                "data_hora": "01/09/2025 10:27:03",
+                                "descricao": "Migrada a tramitação do processo do sistema eletrônico originário para o outro sistema eletrônico",
+                                "usuario": "f0119651"
+                            },
+                            {
+                                "seq": "51",
+                                "data_hora": "22/08/2025 11:50:02",
+                                "descricao": "Juntado(a) - Proferido despacho de mero expediente",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "50",
+                                "data_hora": "02/07/2025 19:02:27",
+                                "descricao": "Juntado(a) - Juntada de Petição de petição",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "49",
+                                "data_hora": "15/04/2025 14:28:54",
+                                "descricao": "Juntado(a) - Conclusos para despacho",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "48",
+                                "data_hora": "09/04/2025 12:32:59",
+                                "descricao": "Juntado(a) - Juntada de Petição de petição",
+                                "usuario": "SECJE"
+                            },
+                            {
+                                "seq": "47",
+                                "data_hora": "19/03/2025 00:16:51",
+                                "descricao": "Juntado(a) - Publicado Intimação em 19/03/2025.",
+                                "usuario": "SECJE"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ],
     "SERGIO FIRMINO DA SILVA": [],
     "HELENA FARIAS DE LIMA": [],
-    "PAULO SALIM MALUF": [],
-    "PEDRO DE SÁ": [
-        {
-            "nome_parte": "49.926.162 PEDRO PAULO DE SOUZA CANDIDO",
-            "cpf_cnpj": "49.9**************"
-        },
-        {
-            "nome_parte": "57.133.082 PEDRO AUGUSTO GRANJEIA DA SILVA",
-            "cpf_cnpj": "57.1**************"
-        },
-        {
-            "nome_parte": "ADAO PEDRO FERNANDES",
-            "cpf_cnpj": "597.**********"
-        },
-        {
-            "nome_parte": "ADEMIR PEDRO SOUTO",
-            "cpf_cnpj": "290.**********"
-        },
-        {
-            "nome_parte": "ALLAN PEDRO FIRMINO COMPASSO",
-            "cpf_cnpj": "107.**********"
-        },
-        {
-            "nome_parte": "AMILTON PEDRO DE OLIVEIRA",
-            "cpf_cnpj": "084.**********"
-        },
-        {
-            "nome_parte": "ANA LICE PEDRO DOS SANTOS GONCALVES",
-            "cpf_cnpj": "686.**********"
-        },
-        {
-            "nome_parte": "ANDERSON ANTONIO DE LIMA PEDRO",
-            "cpf_cnpj": "924.**********"
-        },
-        {
-            "nome_parte": "ANDRE MOREIRA PEDRO",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "ANGELA MARIA PEDRO HONORATO",
-            "cpf_cnpj": "088.**********"
-        },
-        {
-            "nome_parte": "ANSELMO CARLOS PEDRO MAGNO RODRIGUES",
-            "cpf_cnpj": "804.**********"
-        },
-        {
-            "nome_parte": "ANTONIO PEDRO",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "ANTONIO PEDRO GOMES DA SILVA",
-            "cpf_cnpj": "508.**********"
-        },
-        {
-            "nome_parte": "ANTONIO PEDRO GRECO",
-            "cpf_cnpj": "011.**********"
-        },
-        {
-            "nome_parte": "ANTONIO PEDRO LIMA SANTOS",
-            "cpf_cnpj": "070.**********"
-        },
-        {
-            "nome_parte": "ARIELLE MATOS PEDRO",
-            "cpf_cnpj": "113.**********"
-        },
-        {
-            "nome_parte": "ARMAZENS GERAIS E COMERCIO DE CAFE SAO PEDRO DA UNIAO LTDA",
-            "cpf_cnpj": "12.0**************"
-        },
-        {
-            "nome_parte": "ARTHUR MANSUETO MOREIRA PEDRO",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "AURELINO PEDRO DOS SANTOS",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "BANCO SANTANDER (BRASIL) S.A.",
-            "cpf_cnpj": "90.4**************"
-        },
-        {
-            "nome_parte": "CARLOS ALBERTO PEDRO",
-            "cpf_cnpj": "392.**********"
-        },
-        {
-            "nome_parte": "CENTRO DE FORMACAO DE CONDUTORES SAO PEDRO LTDA",
-            "cpf_cnpj": "05.2**************"
-        },
-        {
-            "nome_parte": "CLAYTON PEDRO MARIANO FILHO",
-            "cpf_cnpj": "116.**********"
-        },
-        {
-            "nome_parte": "COMERCIAL PEDRO II LTDA",
-            "cpf_cnpj": "02.7**************"
-        },
-        {
-            "nome_parte": "CONDOMINIO DO EDIFICIO PEDRO ALEIXO",
-            "cpf_cnpj": "65.1**************"
-        },
-        {
-            "nome_parte": "CONDOMINIO DO EDIFICIO PEDRO CARNEIRO",
-            "cpf_cnpj": "65.1**************"
-        },
-        {
-            "nome_parte": "CONDOMINIO RESIDENCIAL COLINAS DE SAO PEDRO",
-            "cpf_cnpj": "09.5**************"
-        },
-        {
-            "nome_parte": "CONDOMINIO SAO PEDRO LIFE",
-            "cpf_cnpj": "52.4**************"
-        },
-        {
-            "nome_parte": "CONSORCIO DOM PEDRO II",
-            "cpf_cnpj": "09.6**************"
-        },
-        {
-            "nome_parte": "COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE PEDRO LEOPOLDO LTDA - SICOOB CREDIPEL",
-            "cpf_cnpj": "71.4**************"
-        },
-        {
-            "nome_parte": "COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE PEDRO LEOPOLDO LTDA - SICOOB CREDIPEL",
-            "cpf_cnpj": "71.4**************"
-        },
-        {
-            "nome_parte": "DANIEL PEDRO JOSE DE LACERDA",
-            "cpf_cnpj": "011.**********"
-        },
-        {
-            "nome_parte": "DENTAL TOMAZINI PRODUTOS ODONTOLOGICOS LTDA",
-            "cpf_cnpj": "58.0**************"
-        },
-        {
-            "nome_parte": "DIEGO PEDRO DOS SANTOS",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "EDILSON PEDRO DE FREITAS CRUZ",
-            "cpf_cnpj": "043.**********"
-        },
-        {
-            "nome_parte": "EDILSON PEDRO SIMOES",
-            "cpf_cnpj": "075.**********"
-        },
-        {
-            "nome_parte": "EDMUNDO DE PAULA PEDRO",
-            "cpf_cnpj": "085.**********"
-        },
-        {
-            "nome_parte": "EDSON PEDRO SERRA",
-            "cpf_cnpj": "205.**********"
-        },
-        {
-            "nome_parte": "EDVALDO PEDRO BATISTA",
-            "cpf_cnpj": "253.**********"
-        },
-        {
-            "nome_parte": "ELCI DA SILVA PEDRO",
-            "cpf_cnpj": "859.**********"
-        },
-        {
-            "nome_parte": "ELIAS PEDRO GONCALVES SILVA",
-            "cpf_cnpj": "052.**********"
-        },
-        {
-            "nome_parte": "EMANUELE PEREIRA PEDRO",
-            "cpf_cnpj": "155.**********"
-        },
-        {
-            "nome_parte": "EMPRESA SAO PEDRO LTDA",
-            "cpf_cnpj": "17.8**************"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE OLIVEIRA MARQUES PRODUTOS VETERINARIOS",
-            "cpf_cnpj": "48.6**************"
-        },
-        {
-            "nome_parte": "ESPÓLIO DE PEDRO FERREIRA DO VALLE",
-            "cpf_cnpj": "078.**********"
-        },
-        {
-            "nome_parte": "ESPOLIO DE PEDRO PAULO BESSA",
-            "cpf_cnpj": "132.**********"
-        },
-        {
-            "nome_parte": "FERNANDA MAIUNI DE OLIVEIRA PEDRO",
-            "cpf_cnpj": "059.**********"
-        },
-        {
-            "nome_parte": "FERNANDO PEDRO DA SILVA",
-            "cpf_cnpj": "013.**********"
-        },
-        {
-            "nome_parte": "FERNANDO PEDRO DE SOUZA",
-            "cpf_cnpj": "052.**********"
-        },
-        {
-            "nome_parte": "FRANCISCO PEDRO DO NASCIMENTO FILHO",
-            "cpf_cnpj": "046.**********"
-        },
-        {
-            "nome_parte": "FUNDACAO 'PROF.DR.MANOEL PEDRO PIMENTEL'-FUNAP",
-            "cpf_cnpj": "49.3**************"
-        },
-        {
-            "nome_parte": "GABRIEL NUNES PEDRO",
-            "cpf_cnpj": "088.**********"
-        },
-        {
-            "nome_parte": "GERALDO PEDRO DA SILVA",
-            "cpf_cnpj": "156.**********"
-        },
-        {
-            "nome_parte": "GERALDO PEDRO DA SILVA",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "GERCINA CARDOSO RIBEIRO PEDRO",
-            "cpf_cnpj": "426.**********"
-        },
-        {
-            "nome_parte": "GILMAR PEDRO DA SILVA",
-            "cpf_cnpj": "262.**********"
-        },
-        {
-            "nome_parte": "HELIO PEDRO DE OLIVEIRA",
-            "cpf_cnpj": "980.**********"
-        },
-        {
-            "nome_parte": "ILMA DE OLIVEIRA PEDRO SILVA",
-            "cpf_cnpj": "270.**********"
-        },
-        {
-            "nome_parte": "ISAIAS PEDRO SILVA DE SOUZA",
-            "cpf_cnpj": "137.**********"
-        },
-        {
-            "nome_parte": "ISMAR PEDRO DE MENEZES",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "IZAIRA UNES PEDRO",
-            "cpf_cnpj": "664.**********"
-        },
-        {
-            "nome_parte": "J.P. LIMPEZA EM GERAL LTDA",
-            "cpf_cnpj": "09.2**************"
-        },
-        {
-            "nome_parte": "JASON DA SILVA PEDRO",
-            "cpf_cnpj": "100.**********"
-        },
-        {
-            "nome_parte": "JEFFERSON PEDRO MARTINS",
-            "cpf_cnpj": "012.**********"
-        },
-        {
-            "nome_parte": "JESSICA GOMES PEDRO",
-            "cpf_cnpj": "119.**********"
-        },
-        {
-            "nome_parte": "JOAO BATISTA PEDRO",
-            "cpf_cnpj": "255.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO ALMEIDA DE ARAUJO",
-            "cpf_cnpj": "106.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO ANUNCIACAO SILVA",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO AVILA SALGADO SILVA",
-            "cpf_cnpj": "191.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO BARCELOS VILAS BOAS",
-            "cpf_cnpj": "087.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO BRUNO BICALHO DE FREITAS",
-            "cpf_cnpj": "148.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CALAZANS DE ARAUJO",
-            "cpf_cnpj": "020.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CAMPOS NUNES",
-            "cpf_cnpj": "122.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CANCADO BARBOSA",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CARVALHO DOS SANTOS",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CARVALHO GARCIA DE LIMA",
-            "cpf_cnpj": "074.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CAVALCANTE DE SOUZA",
-            "cpf_cnpj": "019.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO COELHO CAVALCANTI",
-            "cpf_cnpj": "153.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO CORREA LIMA",
-            "cpf_cnpj": "405.**********"
-        },
-        {
-            "nome_parte": "SAO PEDRO E SAO PAULO COMERCIO DE ALIMENTOS LTDA",
-            "cpf_cnpj": "00.5**************"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DA PAIXAO LOPES",
-            "cpf_cnpj": "701.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DA SILVA LUCAS",
-            "cpf_cnpj": "136.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DE BARROS PEREZ",
-            "cpf_cnpj": "169.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DE FARIA ARCANJO",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DIAS DE ALMEIDA",
-            "cpf_cnpj": "097.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DINIZ CARNEIRO MONTEIRO",
-            "cpf_cnpj": "160.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DO CARMO MAIA PEREIRA",
-            "cpf_cnpj": "541.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO DO CARMO PIRES",
-            "cpf_cnpj": "146.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO FERREIRA BRANDAO",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO FERREIRA PINTO DA SILVA",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO FRANCA SANTOS",
-            "cpf_cnpj": "132.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO GAMEIRO DE REZENDE CENTOLA",
-            "cpf_cnpj": "184.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO GARCIA",
-            "cpf_cnpj": "164.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO GONCALVES",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO GORGES FREITAS",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO HOFFERT MONTEIRO DE LIMA",
-            "cpf_cnpj": "424.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO LOPES MOREIRA",
-            "cpf_cnpj": "047.**********"
-        },
-        {
-            "nome_parte": "JOÃO PEDRO MACHADO",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO MENDES DIAS",
-            "cpf_cnpj": "133.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO NERY NASCIMENTO",
-            "cpf_cnpj": "073.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO OLIVEIRA ALVES",
-            "cpf_cnpj": "017.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO OLIVEIRA LACERDA DUARTE",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "JOÃO PEDRO OTTONI SILVA",
-            "cpf_cnpj": "062.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO PALHARES DUARTE",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO PEREIRA DA SILVA",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO PEREIRA DE ASSIS",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO PIRES NEPOMUCENO",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO POLICARPO ARAUJO",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO QUARESMA CHAVES",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO REGGIANE DE LIMA",
-            "cpf_cnpj": "155.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO RIBEIRO DA SILVA",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO RODRIGUES BARROSO COELHO",
-            "cpf_cnpj": "125.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO RODRIGUES DE MOURA SILVA",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO RODRIGUES PEREIRA",
-            "cpf_cnpj": "087.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO RODRIGUES SANTOS",
-            "cpf_cnpj": "142.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SANTANA SILVA",
-            "cpf_cnpj": "125.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SANTIAGO DE FREITAS",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SANTOS SILVA",
-            "cpf_cnpj": "022.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SENNA VALLE VIEIRA",
-            "cpf_cnpj": "100.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SILVA VINHAL",
-            "cpf_cnpj": "702.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SOUSA MOTA",
-            "cpf_cnpj": "078.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO SOUZA RIBEIRO",
-            "cpf_cnpj": "129.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO VELOSO SOARES",
-            "cpf_cnpj": "084.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO VIANA PRUDENCIO",
-            "cpf_cnpj": "034.**********"
-        },
-        {
-            "nome_parte": "JOAO PEDRO ZALDANA ARAGAO",
-            "cpf_cnpj": "044.**********"
-        },
-        {
-            "nome_parte": "JOAQUIM PEDRO CRAVEIRO",
-            "cpf_cnpj": "474.**********"
-        },
-        {
-            "nome_parte": "JOAQUIM PEDRO DA SILVA",
-            "cpf_cnpj": "155.**********"
-        },
-        {
-            "nome_parte": "JOAQUIM PEDRO DE SOUZA",
-            "cpf_cnpj": "176.**********"
-        },
-        {
-            "nome_parte": "JOAQUIM PEDRO DOS SANTOS",
-            "cpf_cnpj": "176.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO ALIGHIERE STARLING ALVES",
-            "cpf_cnpj": "080.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO ALVES PEREIRA",
-            "cpf_cnpj": "222.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO CORREA",
-            "cpf_cnpj": "195.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO DE MOURA",
-            "cpf_cnpj": "156.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO DE OLIVEIRA",
-            "cpf_cnpj": "264.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO DE OLIVEIRA",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO DUARTE MALTA",
-            "cpf_cnpj": "160.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO FAUSTINO DE SOUZA",
-            "cpf_cnpj": "005.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO GARCIA VIEIRA",
-            "cpf_cnpj": "957.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO IZIDORO",
-            "cpf_cnpj": "275.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO MARCIANO DRUMOND",
-            "cpf_cnpj": "296.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO MARTINS",
-            "cpf_cnpj": "009.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO MARTINS DA SILVA",
-            "cpf_cnpj": "087.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO MONTEIRO DE BARROS JUNIOR",
-            "cpf_cnpj": "746.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO PEREIRA",
-            "cpf_cnpj": "129.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO PIRES FILHO",
-            "cpf_cnpj": "11.1**************"
-        },
-        {
-            "nome_parte": "JOSE PEDRO PIRES FILHO",
-            "cpf_cnpj": "040.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO SILVA MORAES",
-            "cpf_cnpj": "372.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO SOUSA SANTOS",
-            "cpf_cnpj": "867.**********"
-        },
-        {
-            "nome_parte": "JOSE PEDRO VILA NOVA NETO",
-            "cpf_cnpj": "028.**********"
-        },
-        {
-            "nome_parte": "JOSUE PEDRO ALMEIDA FERREIRA",
-            "cpf_cnpj": "110.**********"
-        },
-        {
-            "nome_parte": "LEVY PEDRO DA COSTA",
-            "cpf_cnpj": "315.**********"
-        },
-        {
-            "nome_parte": "LINDBERG PEDRO VALENTIM NETO",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "LUCELENA PEDRO",
-            "cpf_cnpj": "349.**********"
-        },
-        {
-            "nome_parte": "LUCI PEDRO FERREIRA",
-            "cpf_cnpj": "292.**********"
-        },
-        {
-            "nome_parte": "LUCI SILVA PEDRO",
-            "cpf_cnpj": "042.**********"
-        },
-        {
-            "nome_parte": "LUIS PEDRO GUIMARAES DE LIMA",
-            "cpf_cnpj": "016.**********"
-        },
-        {
-            "nome_parte": "LUIS PEDRO OLIVEIRA DA SILVA",
-            "cpf_cnpj": "063.**********"
-        },
-        {
-            "nome_parte": "LUIZ PEDRO DOS SANTOS",
-            "cpf_cnpj": "269.**********"
-        },
-        {
-            "nome_parte": "LUIZA VALERIO ARMANELLI COSTA PEDRO",
-            "cpf_cnpj": "103.**********"
-        },
-        {
-            "nome_parte": "MANOEL PEDRO DE MIRANDA",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "MANUEL INACIO DE SAO PEDRO",
-            "cpf_cnpj": "041.**********"
-        },
-        {
-            "nome_parte": "MARCELO PEDRO RODRIGUES",
-            "cpf_cnpj": "618.**********"
-        },
-        {
-            "nome_parte": "MARCIO PEDRO DA SILVA",
-            "cpf_cnpj": "018.**********"
-        },
-        {
-            "nome_parte": "MARCOS PEDRO DE JESUS",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "MARCOS PEDRO LINO",
-            "cpf_cnpj": "068.**********"
-        },
-        {
-            "nome_parte": "MARIA GONCALVES PEDRO",
-            "cpf_cnpj": "001.**********"
-        },
-        {
-            "nome_parte": "MARIA PEDRO TITO",
-            "cpf_cnpj": "549.**********"
-        },
-        {
-            "nome_parte": "MARIO PEDRO DA SILVA",
-            "cpf_cnpj": "399.**********"
-        },
-        {
-            "nome_parte": "MARIO PEDRO GOMES",
-            "cpf_cnpj": "243.**********"
-        },
-        {
-            "nome_parte": "MINERACAO SAO PEDRO DE ITAJUBA LTDA",
-            "cpf_cnpj": "17.8**************"
-        },
-        {
-            "nome_parte": "MUNICIPIO DE PEDRO LEOPOLDO",
-            "cpf_cnpj": "23.4**************"
-        },
-        {
-            "nome_parte": "MUNICIPIO DE SAO PEDRO DO SUACUI",
-            "cpf_cnpj": "18.4**************"
-        },
-        {
-            "nome_parte": "NILTON PEDRO GOMES",
-            "cpf_cnpj": "430.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARAUJO COELHO",
-            "cpf_cnpj": "36.6**************"
-        },
-        {
-            "nome_parte": "OSMAR PEDRO ANICETO",
-            "cpf_cnpj": "269.**********"
-        },
-        {
-            "nome_parte": "OSVALDO PEDRO DIAS",
-            "cpf_cnpj": "036.**********"
-        },
-        {
-            "nome_parte": "PEDRO AFONSO DE LIMA NETO",
-            "cpf_cnpj": "276.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALBERTO SANSAO CABALZAR",
-            "cpf_cnpj": "763.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALCANTARA CORREA",
-            "cpf_cnpj": "004.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALCANTARA DE MATTOS JUNIOR",
-            "cpf_cnpj": "894.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALCANTARA DE REZENDE JUNIOR",
-            "cpf_cnpj": "924.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALEX FERREIRA DA ROCHA",
-            "cpf_cnpj": "802.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALEXANDRE DE MATOS",
-            "cpf_cnpj": "496.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALEXANDRE PALHARES DA SILVA",
-            "cpf_cnpj": "056.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALEXANDRE PEREIRA JUNIOR",
-            "cpf_cnpj": "084.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALEXANDRINO OLIVEIRA",
-            "cpf_cnpj": "706.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALOI SCARPINO FILHO",
-            "cpf_cnpj": "019.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVARENGA SANTOS ATAIDE",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES CABRAL ROSA",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DA SILVA",
-            "cpf_cnpj": "154.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DA SILVA",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DA SILVA FILHO",
-            "cpf_cnpj": "138.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DA SILVA JUNIOR",
-            "cpf_cnpj": "001.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DE BRITO",
-            "cpf_cnpj": "440.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DE MORAES",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES DOS SANTOS",
-            "cpf_cnpj": "129.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES FILHO",
-            "cpf_cnpj": "683.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES MARCAL",
-            "cpf_cnpj": "392.**********"
-        },
-        {
-            "nome_parte": "PEDRO ALVES NETO",
-            "cpf_cnpj": "483.**********"
-        },
-        {
-            "nome_parte": "PEDRO AMARAL SARAIVA FRAIHA",
-            "cpf_cnpj": "078.**********"
-        },
-        {
-            "nome_parte": "PEDRO AMARO DE MOURA",
-            "cpf_cnpj": "664.**********"
-        },
-        {
-            "nome_parte": "PEDRO AMERICO ANTUNES JUNIOR",
-            "cpf_cnpj": "869.**********"
-        },
-        {
-            "nome_parte": "PEDRO AMERICO RIBEIRO",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANGELO KNYCHALA",
-            "cpf_cnpj": "458.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO ALVES",
-            "cpf_cnpj": "340.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO DA CRUZ",
-            "cpf_cnpj": "254.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO DE OLIVEIRA BORGES",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO DE PAULA NETO",
-            "cpf_cnpj": "850.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO ESTEVES SILVA",
-            "cpf_cnpj": "021.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO MURTA LIMA MENEZES",
-            "cpf_cnpj": "122.**********"
-        },
-        {
-            "nome_parte": "RECUPERACAO DE PARACHOQUES PEDRO II LTDA",
-            "cpf_cnpj": "32.9**************"
-        },
-        {
-            "nome_parte": "SORRIDEVA DOM PEDRO SOLUCOES ODONTOLOGICAS LTDA",
-            "cpf_cnpj": "51.8**************"
-        },
-        {
-            "nome_parte": "PEDRO ANTONIO TAMEIRAO MAGALHAES",
-            "cpf_cnpj": "134.**********"
-        },
-        {
-            "nome_parte": "PEDRO ANTUNES DE ALCAMIRO",
-            "cpf_cnpj": "176.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARKAN BOECHAT SERODIO GOULART",
-            "cpf_cnpj": "109.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARTHUR DA SILVA FILHO",
-            "cpf_cnpj": "055.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARTHUR LEAL DE OLIVEIRA",
-            "cpf_cnpj": "142.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARTHUR LEITE DE OLIVEIRA",
-            "cpf_cnpj": "139.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARTUR DOS SANTOS HENRIQUE",
-            "cpf_cnpj": "152.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARTUR GUEDES ALVES",
-            "cpf_cnpj": "122.**********"
-        },
-        {
-            "nome_parte": "PEDRO ARTUR PEGO DE ALMEIDA",
-            "cpf_cnpj": "156.**********"
-        },
-        {
-            "nome_parte": "PEDRO ASCENCAO ALVES",
-            "cpf_cnpj": "279.**********"
-        },
-        {
-            "nome_parte": "PEDRO ASSIS DE SOUZA",
-            "cpf_cnpj": "256.**********"
-        },
-        {
-            "nome_parte": "PEDRO ASSUMPCAO NETO",
-            "cpf_cnpj": "082.**********"
-        },
-        {
-            "nome_parte": "PEDRO ATHAYDE RABELO VALADARES VIEGAS",
-            "cpf_cnpj": "102.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO AIRES CHAVES",
-            "cpf_cnpj": "159.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO ALMEIDA MUNDIM FONSECA",
-            "cpf_cnpj": "133.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO ALVES PEREIRA",
-            "cpf_cnpj": "080.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO CARNEIRO DO CARMO BITENCOURT",
-            "cpf_cnpj": "095.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO CARVALHO COSTA",
-            "cpf_cnpj": "080.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO DE ANDRADE SANTOS",
-            "cpf_cnpj": "087.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO DE GOUVEA NOGUEIRA",
-            "cpf_cnpj": "022.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO DE SOUZA REIS",
-            "cpf_cnpj": "099.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO GOMES DE PAULA",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO JANUARIO DA CUNHA",
-            "cpf_cnpj": "106.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO MATOSINHO",
-            "cpf_cnpj": "096.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO MENDONCA JARDIM",
-            "cpf_cnpj": "120.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO MORAIS BARCELOS LTDA",
-            "cpf_cnpj": "52.1**************"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO MORAIS FIUZA ABRAS",
-            "cpf_cnpj": "119.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO NASSIF DOS ANJOS",
-            "cpf_cnpj": "100.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO PINHEIRO LUNA BERTOLIN",
-            "cpf_cnpj": "099.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO PINTO RESENDE DE PAULA",
-            "cpf_cnpj": "699.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO PINTO VICENTE",
-            "cpf_cnpj": "148.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO RODRIGUES DINIZ",
-            "cpf_cnpj": "075.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO RODRIGUES FARIA",
-            "cpf_cnpj": "181.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO RUBINI RAMOS",
-            "cpf_cnpj": "857.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO SANTANA RIBEIRO",
-            "cpf_cnpj": "085.**********"
-        },
-        {
-            "nome_parte": "PEDRO AUGUSTO SILVA PEREIRA",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO AVELINO DA CRUZ",
-            "cpf_cnpj": "033.**********"
-        },
-        {
-            "nome_parte": "PEDRO BAPTISTA DE OLIVEIRA FREITAS",
-            "cpf_cnpj": "066.**********"
-        },
-        {
-            "nome_parte": "PEDRO BARBOSA COSTA",
-            "cpf_cnpj": "002.**********"
-        },
-        {
-            "nome_parte": "PEDRO BARBOSA MORATO",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO BATISTA",
-            "cpf_cnpj": "000.**********"
-        },
-        {
-            "nome_parte": "PEDRO BATISTA ITUASSU PINTO",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO BEN HUR GONCALVES",
-            "cpf_cnpj": "154.**********"
-        },
-        {
-            "nome_parte": "PEDRO BENTO CARDOZO",
-            "cpf_cnpj": "858.**********"
-        },
-        {
-            "nome_parte": "PEDRO BENTO MARTINS",
-            "cpf_cnpj": "000.**********"
-        },
-        {
-            "nome_parte": "PEDRO BERNARDES DE OLIVEIRA",
-            "cpf_cnpj": "361.**********"
-        },
-        {
-            "nome_parte": "PEDRO BERNARDO BRAGA E BRAGA",
-            "cpf_cnpj": "076.**********"
-        },
-        {
-            "nome_parte": "PEDRO BEZERRA PIMENTA",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "PEDRO BORBA DA SILVA",
-            "cpf_cnpj": "394.**********"
-        },
-        {
-            "nome_parte": "PEDRO BOREM BORGES",
-            "cpf_cnpj": "701.**********"
-        },
-        {
-            "nome_parte": "PEDRO BORGES ANDRADE ASSIS",
-            "cpf_cnpj": "133.**********"
-        },
-        {
-            "nome_parte": "PEDRO BORGES RAMIRO DE ABREU",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "PEDRO BOSSI RIBEIRO LEITE",
-            "cpf_cnpj": "075.**********"
-        },
-        {
-            "nome_parte": "PEDRO BRAGA FILHO",
-            "cpf_cnpj": "508.**********"
-        },
-        {
-            "nome_parte": "PEDRO BRAZ DE OLIVEIRA",
-            "cpf_cnpj": "025.**********"
-        },
-        {
-            "nome_parte": "PEDRO BRITO CANDIDO FERREIRA",
-            "cpf_cnpj": "059.**********"
-        },
-        {
-            "nome_parte": "PEDRO BUTILHEIRO",
-            "cpf_cnpj": "086.**********"
-        },
-        {
-            "nome_parte": "PEDRO CALDEIRA",
-            "cpf_cnpj": "070.**********"
-        },
-        {
-            "nome_parte": "PEDRO CAMILLO PEREIRA",
-            "cpf_cnpj": "113.**********"
-        },
-        {
-            "nome_parte": "PEDRO CAMPOS COUTINHO",
-            "cpf_cnpj": "216.**********"
-        },
-        {
-            "nome_parte": "PEDRO CANDIDO GRIGORIO",
-            "cpf_cnpj": "174.**********"
-        },
-        {
-            "nome_parte": "PEDRO CARLOS DE ALMEIDA SALLES",
-            "cpf_cnpj": "018.**********"
-        },
-        {
-            "nome_parte": "PEDRO CARLOS FONSECA ROCHA",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO CARLOS HOSKEN VIEIRA FILHO",
-            "cpf_cnpj": "036.**********"
-        },
-        {
-            "nome_parte": "PEDRO CARLOS SILVA",
-            "cpf_cnpj": "938.**********"
-        },
-        {
-            "nome_parte": "PEDRO CARVALHO VIEIRA",
-            "cpf_cnpj": "551.**********"
-        },
-        {
-            "nome_parte": "PEDRO CASASANTA PEIXOTO",
-            "cpf_cnpj": "007.**********"
-        },
-        {
-            "nome_parte": "PEDRO CECCATO",
-            "cpf_cnpj": "114.**********"
-        },
-        {
-            "nome_parte": "PEDRO CELESTINO NEPOMUCENO",
-            "cpf_cnpj": "298.**********"
-        },
-        {
-            "nome_parte": "PEDRO CELESTINO SILVA",
-            "cpf_cnpj": "920.**********"
-        },
-        {
-            "nome_parte": "PEDRO CELIO DA SILVA",
-            "cpf_cnpj": "823.**********"
-        },
-        {
-            "nome_parte": "PEDRO CELIO VIEIRA LIMA",
-            "cpf_cnpj": "824.**********"
-        },
-        {
-            "nome_parte": "PEDRO CENDON JUNIOR",
-            "cpf_cnpj": "343.**********"
-        },
-        {
-            "nome_parte": "PEDRO CESAR AMORIM ANTUNES",
-            "cpf_cnpj": "076.**********"
-        },
-        {
-            "nome_parte": "PEDRO CESAR CARVALHO GOMES",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO CESAR FONTES",
-            "cpf_cnpj": "314.**********"
-        },
-        {
-            "nome_parte": "PEDRO CESAR REZENDE DE ASSIS",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO CEZAR PESSANHA",
-            "cpf_cnpj": "585.**********"
-        },
-        {
-            "nome_parte": "PEDRO CEZAR SILVA DAS DORES",
-            "cpf_cnpj": "701.**********"
-        },
-        {
-            "nome_parte": "PEDRO CHAVES CERQUEIRA VIANA",
-            "cpf_cnpj": "129.**********"
-        },
-        {
-            "nome_parte": "PEDRO CINQUE CONSULTORIA E PARTICIPACOES LTDA",
-            "cpf_cnpj": "35.7**************"
-        },
-        {
-            "nome_parte": "PEDRO CINQUE DE MELO",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "PEDRO CLAUDINO DE MORAES",
-            "cpf_cnpj": "945.**********"
-        },
-        {
-            "nome_parte": "PEDRO CLAUDIO COUTINHO LEITAO",
-            "cpf_cnpj": "976.**********"
-        },
-        {
-            "nome_parte": "PEDRO CONRADO DA SILVA",
-            "cpf_cnpj": "005.**********"
-        },
-        {
-            "nome_parte": "PEDRO COSTA DINIZ",
-            "cpf_cnpj": "082.**********"
-        },
-        {
-            "nome_parte": "PEDRO DA CRUZ CORREA",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO DA CRUZ FRANCA",
-            "cpf_cnpj": "477.**********"
-        },
-        {
-            "nome_parte": "PEDRO DA CUNHA MENEZES",
-            "cpf_cnpj": "132.**********"
-        },
-        {
-            "nome_parte": "PEDRO DA MATA MACHADO",
-            "cpf_cnpj": "320.**********"
-        },
-        {
-            "nome_parte": "PEDRO DA RESSURREICAO DO CARMO",
-            "cpf_cnpj": "457.**********"
-        },
-        {
-            "nome_parte": "PEDRO DA SILVA",
-            "cpf_cnpj": "039.**********"
-        },
-        {
-            "nome_parte": "PEDRO DANIEL TEIXEIRA CONRADO",
-            "cpf_cnpj": "152.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE ABREU",
-            "cpf_cnpj": "457.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE ABREU LIBANIO",
-            "cpf_cnpj": "730.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE ALCANTARA MACHADO JUNIOR",
-            "cpf_cnpj": "004.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE ALMEIDA SILVA",
-            "cpf_cnpj": "451.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE ALMEIDA SOUSA",
-            "cpf_cnpj": "842.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE FREITAS SOUZA",
-            "cpf_cnpj": "182.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE HOLANDA CAVALCANTE",
-            "cpf_cnpj": "010.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE JESUS PEREIRA",
-            "cpf_cnpj": "368.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE MENDONÇA GUIMARÃES",
-            "cpf_cnpj": "070.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE OLIVEIRA KLEIN",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE OLIVEIRA NEVES",
-            "cpf_cnpj": "355.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE PAIVA GONTIJO",
-            "cpf_cnpj": "000.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE PAULA LOPES",
-            "cpf_cnpj": "852.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE PAULA VELOSO",
-            "cpf_cnpj": "141.**********"
-        },
-        {
-            "nome_parte": "PEDRO DE SOUZA BATISTA CAMPOS",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "PEDRO DIAS CARRILHO",
-            "cpf_cnpj": "066.**********"
-        },
-        {
-            "nome_parte": "PEDRO DINIZ RUNGUE",
-            "cpf_cnpj": "676.**********"
-        },
-        {
-            "nome_parte": "PEDRO DIOGO NOGUEIRA BARBOSA LIMA",
-            "cpf_cnpj": "068.**********"
-        },
-        {
-            "nome_parte": "PEDRO DO CARMO SOARES",
-            "cpf_cnpj": "029.**********"
-        },
-        {
-            "nome_parte": "PEDRO DOS SANTOS GRANDINETTI DE BARROS",
-            "cpf_cnpj": "115.**********"
-        },
-        {
-            "nome_parte": "PEDRO DOS SANTOS HERCULANO",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO DRUMOND FRAGOSO",
-            "cpf_cnpj": "157.**********"
-        },
-        {
-            "nome_parte": "PEDRO EDUARDO ALVES DIAS MAIA",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO EDUARDO HERINGER DE OLIVEIRA",
-            "cpf_cnpj": "037.**********"
-        },
-        {
-            "nome_parte": "PEDRO EIJMARD SAMPAIO NASCIMENTO",
-            "cpf_cnpj": "671.**********"
-        },
-        {
-            "nome_parte": "PEDRO ELTON RIBEIRO",
-            "cpf_cnpj": "006.**********"
-        },
-        {
-            "nome_parte": "PEDRO EMIDIO DA SILVA",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "PEDRO ERNANI SILVA DOUVIDE",
-            "cpf_cnpj": "144.**********"
-        },
-        {
-            "nome_parte": "PEDRO ERNESTO MAIA BALLSTAEDT",
-            "cpf_cnpj": "029.**********"
-        },
-        {
-            "nome_parte": "PEDRO EUZEBIO",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO EUZEBIO BRAZ",
-            "cpf_cnpj": "174.**********"
-        },
-        {
-            "nome_parte": "PEDRO EVANGELISTA SIQUEIRA FILHO",
-            "cpf_cnpj": "428.**********"
-        },
-        {
-            "nome_parte": "PEDRO EVERARDO LOPES",
-            "cpf_cnpj": "177.**********"
-        },
-        {
-            "nome_parte": "PEDRO FELIPE SILVA SANTOS",
-            "cpf_cnpj": "030.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERNANDES DA SILVA",
-            "cpf_cnpj": "084.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERNANDES GUIMARAES",
-            "cpf_cnpj": "148.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERNANDES PERIM",
-            "cpf_cnpj": "793.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERNANDO DA SILVA GOMES",
-            "cpf_cnpj": "520.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERREIRA FROIS",
-            "cpf_cnpj": "253.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERREIRA PINA",
-            "cpf_cnpj": "417.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERREIRA QUIRINO",
-            "cpf_cnpj": "230.**********"
-        },
-        {
-            "nome_parte": "PEDRO FERREIRA SILVA",
-            "cpf_cnpj": "075.**********"
-        },
-        {
-            "nome_parte": "PEDRO FLAVIANO DE SOUZA",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "PEDRO FLAVIO PEREIRA BRAGA OLIVEIRA",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "PEDRO FLOR DE ARAUJO NETO",
-            "cpf_cnpj": "127.**********"
-        },
-        {
-            "nome_parte": "PEDRO FLORINDO RIBEIRO COELHO",
-            "cpf_cnpj": "748.**********"
-        },
-        {
-            "nome_parte": "PEDRO FRANCISCO DA SILVA",
-            "cpf_cnpj": "277.**********"
-        },
-        {
-            "nome_parte": "PEDRO FRANCISCO DE OLIVEIRA",
-            "cpf_cnpj": "211.**********"
-        },
-        {
-            "nome_parte": "PEDRO FREIRE BOTELHO MAGALHAES",
-            "cpf_cnpj": "015.**********"
-        },
-        {
-            "nome_parte": "PEDRO FURTADO DE ARAUJO",
-            "cpf_cnpj": "071.**********"
-        },
-        {
-            "nome_parte": "PEDRO GABRIEL DE MENEZES BOY",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO GABRIEL FERREIRA",
-            "cpf_cnpj": "184.**********"
-        },
-        {
-            "nome_parte": "PEDRO GABRIEL FIGUEIREDO CAMPOS",
-            "cpf_cnpj": "097.**********"
-        },
-        {
-            "nome_parte": "PEDRO GABRIEL MOTA FIGUEIREDO",
-            "cpf_cnpj": "088.**********"
-        },
-        {
-            "nome_parte": "PEDRO GABRIEL SAD RABELO",
-            "cpf_cnpj": "156.**********"
-        },
-        {
-            "nome_parte": "PEDRO GALDINO DOS SANTOS",
-            "cpf_cnpj": "665.**********"
-        },
-        {
-            "nome_parte": "PEDRO GATI DO NASCIMENTO",
-            "cpf_cnpj": "616.**********"
-        },
-        {
-            "nome_parte": "PEDRO GEOVANI VIVEIROS",
-            "cpf_cnpj": "040.**********"
-        },
-        {
-            "nome_parte": "PEDRO GERALDO GILBERTO PAPA",
-            "cpf_cnpj": "167.**********"
-        },
-        {
-            "nome_parte": "PEDRO GERONIMO PROCOPIO",
-            "cpf_cnpj": "913.**********"
-        },
-        {
-            "nome_parte": "PEDRO GIORDANI BARBOSA",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "PEDRO GIOVANE SILVA",
-            "cpf_cnpj": "770.**********"
-        },
-        {
-            "nome_parte": "PEDRO GOMES MARINS",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO GONCALVES FIORAVANTE",
-            "cpf_cnpj": "012.**********"
-        },
-        {
-            "nome_parte": "PEDRO GONCALVES PINHEIRO",
-            "cpf_cnpj": "086.**********"
-        },
-        {
-            "nome_parte": "PEDRO GONCALVES RIBEIRO JUNIOR",
-            "cpf_cnpj": "439.**********"
-        },
-        {
-            "nome_parte": "PEDRO GONCALVES VIEIRA",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "PEDRO GRACIANI DOS SANTOS",
-            "cpf_cnpj": "044.**********"
-        },
-        {
-            "nome_parte": "PEDRO GUERRA CALDEIRA",
-            "cpf_cnpj": "193.**********"
-        },
-        {
-            "nome_parte": "PEDRO GUIDUCCI TRAVASSOS",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO GUILHERME ALMEIDA BRAGA",
-            "cpf_cnpj": "089.**********"
-        },
-        {
-            "nome_parte": "PEDRO GUIMARAES TELES CAETANO",
-            "cpf_cnpj": "139.**********"
-        },
-        {
-            "nome_parte": "PEDRO HADDAD",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRICK AGUIAR SILVA",
-            "cpf_cnpj": "151.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRICO CABRAL DE OLIVEIRA",
-            "cpf_cnpj": "136.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CARNEIRO DA FONSECA",
-            "cpf_cnpj": "044.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE AFONSO DOS SANTOS",
-            "cpf_cnpj": "700.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALMEIDA DE FREITAS",
-            "cpf_cnpj": "073.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES DE OLIVEIRA",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES DOS SANTOS",
-            "cpf_cnpj": "151.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES NOGUEIRA",
-            "cpf_cnpj": "141.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES PEREIRA",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES PEREIRA",
-            "cpf_cnpj": "107.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES SIQUEIRA",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES TEIXEIRA",
-            "cpf_cnpj": "100.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ALVES VIANA",
-            "cpf_cnpj": "147.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE AMARAL ALCANTARA",
-            "cpf_cnpj": "141.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE AMARAL SILVA",
-            "cpf_cnpj": "106.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE APARECIDO MEIRA E SILVA",
-            "cpf_cnpj": "142.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE AQUINO CAMPOS",
-            "cpf_cnpj": "086.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARAUJO CHAVES",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARAUJO MOURA",
-            "cpf_cnpj": "157.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARAUJO OLIVEIRA",
-            "cpf_cnpj": "703.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARCANJO DO NASCIMENTO",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARGEMIRO",
-            "cpf_cnpj": "127.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ARRUDA MARTINS",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ASSIS KREMPEL",
-            "cpf_cnpj": "065.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ASSUNCAO VILEFORT",
-            "cpf_cnpj": "093.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BARBOSA RIVELLI",
-            "cpf_cnpj": "017.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BASTOS FREITAS",
-            "cpf_cnpj": "107.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BATISTA DOS SANTOS",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BATISTA PEREIRA",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BEARARI GUIMARAES",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BONANNO COSTA OLIVEIRA",
-            "cpf_cnpj": "144.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE BRAGANCA DOS SANTOS",
-            "cpf_cnpj": "082.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CAIRES DE OLIVEIRA",
-            "cpf_cnpj": "499.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CALDAS BRITO DE PAULA ROCHA",
-            "cpf_cnpj": "087.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CAMPOS",
-            "cpf_cnpj": "096.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CAMPOS DE FARIA",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CAMPOS FARIA 12108873635",
-            "cpf_cnpj": "32.3**************"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CAMPOS HORTA",
-            "cpf_cnpj": "611.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CAMPOS MARTINS",
-            "cpf_cnpj": "132.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CARVALHO ALVARO FLEURY",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CARVALHO CHRISTOFF",
-            "cpf_cnpj": "125.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CARVALHO DOS SANTOS",
-            "cpf_cnpj": "703.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CARVALHO NICOLAU",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CASTELO BRANCO OLIVEIRA",
-            "cpf_cnpj": "189.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CECILIO ARAUJO",
-            "cpf_cnpj": "108.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CHAVES LEAL",
-            "cpf_cnpj": "107.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE COACCI BRUM",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CORREIA LESSA",
-            "cpf_cnpj": "066.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE COSTA",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE COSTA ALVES",
-            "cpf_cnpj": "152.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE CUSTODIO",
-            "cpf_cnpj": "941.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA CUNHA RODRIGUES",
-            "cpf_cnpj": "083.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA ROCHA MARCAL",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA ROCHA SILVA",
-            "cpf_cnpj": "151.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA SILVA",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA SILVA DIAS",
-            "cpf_cnpj": "870.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA SILVA NUNES",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA SILVA PENA",
-            "cpf_cnpj": "019.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA SILVEIRA RODRIGUES",
-            "cpf_cnpj": "703.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DA VISITACAO",
-            "cpf_cnpj": "096.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DAMASCENO FERREIRA",
-            "cpf_cnpj": "018.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE ABREU PAIVA",
-            "cpf_cnpj": "101.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE ALCANTARA",
-            "cpf_cnpj": "049.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE ALCANTARA ARAUJO",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE ALMEIDA SIMOES NEVES",
-            "cpf_cnpj": "087.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE ARAUJO MELO",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE ASSIS",
-            "cpf_cnpj": "107.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE FIGUEIREDO",
-            "cpf_cnpj": "126.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE JESUS",
-            "cpf_cnpj": "103.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE JESUS BATISTA DOS SANTOS",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE MELO MATOS",
-            "cpf_cnpj": "176.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE MELO OLIVEIRA",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE MORAES LEE",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE MORAIS FERREIRA",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE OLIVEIRA AFONSO LISBOA",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE OLIVEIRA PEIXOTO",
-            "cpf_cnpj": "114.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE OLIVEIRA RODRIGUES",
-            "cpf_cnpj": "097.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE OLIVEIRA RODRIGUES",
-            "cpf_cnpj": "144.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE PAULA",
-            "cpf_cnpj": "016.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE PAULA SILVA",
-            "cpf_cnpj": "137.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE RESENDE SOUZA",
-            "cpf_cnpj": "139.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE SOUZA",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE SOUZA E SILVA",
-            "cpf_cnpj": "055.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE SOUZA GOMES",
-            "cpf_cnpj": "113.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DE SOUZA PAIVA",
-            "cpf_cnpj": "160.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DIAS GOMES STEIN",
-            "cpf_cnpj": "091.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DIAS ROCHA",
-            "cpf_cnpj": "058.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DINIZ IRFFI",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DO AMOR DIVINO FERREIRA",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DO VALLE GOMES PIRES",
-            "cpf_cnpj": "086.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DORIGUETO DE OLIVEIRA",
-            "cpf_cnpj": "126.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DOS SANTOS ARAUJO",
-            "cpf_cnpj": "082.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE DOS SANTOS TEODORO",
-            "cpf_cnpj": "021.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ELEUTERIO CAMPOS",
-            "cpf_cnpj": "127.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FABRINI FONSECA",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FELIX ALECRIM",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FERNANDES DE MORAES",
-            "cpf_cnpj": "109.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FERNANDES DO CARMO LAS CASAS",
-            "cpf_cnpj": "089.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FERREIRA DOMENICI",
-            "cpf_cnpj": "064.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FLORIANO DE JESUS",
-            "cpf_cnpj": "19.0**************"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FRANCISCO",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FRANCISCO COELHO",
-            "cpf_cnpj": "164.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE FREIRE",
-            "cpf_cnpj": "076.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GODOY GANDIA PINHEIRO",
-            "cpf_cnpj": "322.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GOMES CARDOSO",
-            "cpf_cnpj": "105.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GOMES DO AMARAL",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GOMES LIMA DO NASCIMENTO",
-            "cpf_cnpj": "081.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GOMES PINTO",
-            "cpf_cnpj": "153.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GONCALVES",
-            "cpf_cnpj": "088.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GONCALVES ANDRADE",
-            "cpf_cnpj": "149.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GONCALVES MARTINS",
-            "cpf_cnpj": "099.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GONZAGA CARDOZO",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GOULART NEVES",
-            "cpf_cnpj": "037.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GUARANY LEITE PINTO",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GUBERT TORRES",
-            "cpf_cnpj": "068.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GUERRA SIMOES",
-            "cpf_cnpj": "796.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GUIMARAES MARTINS",
-            "cpf_cnpj": "056.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE GUIMARAES SOUSA",
-            "cpf_cnpj": "073.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE HORTA SOUTELO",
-            "cpf_cnpj": "083.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE JIRAN FERREIRA",
-            "cpf_cnpj": "046.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE JUNIO DA SILVA",
-            "cpf_cnpj": "140.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE JUNIO FERREIRA",
-            "cpf_cnpj": "101.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE LE ROY ALBERTO",
-            "cpf_cnpj": "113.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE LEAL BAPTISTA",
-            "cpf_cnpj": "005.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE LEONARDO COSTA",
-            "cpf_cnpj": "051.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE LINO MOREIRA",
-            "cpf_cnpj": "084.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE LOPES",
-            "cpf_cnpj": "126.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE LOPES CHAVES",
-            "cpf_cnpj": "052.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MARQUES CARVALHO",
-            "cpf_cnpj": "106.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MARTINS CARLOS",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MARTINS DOS SANTOS CHAO COSTA",
-            "cpf_cnpj": "108.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MARTINS NASCIMENTO",
-            "cpf_cnpj": "702.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MATIAS CAMPOS",
-            "cpf_cnpj": "066.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MAYRINK SOARES",
-            "cpf_cnpj": "116.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MEDEIROS DE ARAUJO DRUMOND",
-            "cpf_cnpj": "136.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MELILLO",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MELQUIADES CARVALHO",
-            "cpf_cnpj": "101.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MENDES TEIXEIRA",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MENDONCA JARDIM",
-            "cpf_cnpj": "074.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MODESTI CASSIANO",
-            "cpf_cnpj": "132.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MOREIRA SOARES",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MOTA COSTA",
-            "cpf_cnpj": "071.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MOURA JAFFAR",
-            "cpf_cnpj": "017.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE MOURA OLIVEIRA",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE NAZARE SALIBA",
-            "cpf_cnpj": "097.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE NEVES DE ARAUJO",
-            "cpf_cnpj": "093.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE NUNES STREIT",
-            "cpf_cnpj": "038.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE OLIVEIRA CARVALHO",
-            "cpf_cnpj": "133.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE OLIVEIRA DE ARAUJO",
-            "cpf_cnpj": "122.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE OLIVEIRA DELGADO DE SOUZA",
-            "cpf_cnpj": "109.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE OLIVEIRA DIAS",
-            "cpf_cnpj": "009.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE OLIVEIRA MENDONCA",
-            "cpf_cnpj": "141.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE OLIVEIRA RODRIGUES",
-            "cpf_cnpj": "119.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PADUA CARVALHO PINTO",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PARDIM SANTOS",
-            "cpf_cnpj": "116.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PARDINI GONCALVES",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PENIDO PINTO",
-            "cpf_cnpj": "084.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PEREIRA ASSUMPCAO",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PEREIRA BATISTA",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PEREIRA DOS REIS",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PEREIRA LIMA",
-            "cpf_cnpj": "019.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PEREIRA MARTINS",
-            "cpf_cnpj": "065.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PEREIRA RICARDO",
-            "cpf_cnpj": "045.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PIMENTA RIBEIRO",
-            "cpf_cnpj": "110.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PINHEIRO GUEDES",
-            "cpf_cnpj": "105.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PINHEIRO SILVA",
-            "cpf_cnpj": "706.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PINHO DE ARAÚJO",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PORTO MAGALHÃES",
-            "cpf_cnpj": "109.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PROFETA LIMA",
-            "cpf_cnpj": "065.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE PUPPIM",
-            "cpf_cnpj": "421.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RAMALHO COELHO NETTO",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RAMOS BORGES",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RAPOSO GONCALVES",
-            "cpf_cnpj": "160.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RIBEIRO BOSCO",
-            "cpf_cnpj": "18.4**************"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RIBEIRO BOSCO",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RIBEIRO CUNHA",
-            "cpf_cnpj": "125.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RICCI DE CASTRO",
-            "cpf_cnpj": "398.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ROBERTI CARVALHO FERNANDES",
-            "cpf_cnpj": "101.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE ROCHA RAMOS",
-            "cpf_cnpj": "145.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RODRIGUES BARBOSA",
-            "cpf_cnpj": "106.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RODRIGUES BASILIO",
-            "cpf_cnpj": "100.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RODRIGUES BISPO",
-            "cpf_cnpj": "700.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RODRIGUES DA SILVA",
-            "cpf_cnpj": "016.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE RODRIGUES DE OLIVEIRA",
-            "cpf_cnpj": "151.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SANCHES FERREIRA",
-            "cpf_cnpj": "023.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SANTOS COSTA",
-            "cpf_cnpj": "115.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SANTOS RIBEIRO",
-            "cpf_cnpj": "120.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SENE BARROS",
-            "cpf_cnpj": "393.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SILVA BITENCOURT",
-            "cpf_cnpj": "176.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SILVA CAMPOS",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SILVA DE SOUZA",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SILVA LOPES",
-            "cpf_cnpj": "122.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SILVA RIBEIRO",
-            "cpf_cnpj": "019.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SILVA SAMPAIO",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SOARES",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SOARES",
-            "cpf_cnpj": "143.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SOARES AGUIAR",
-            "cpf_cnpj": "150.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SOARES DAVID",
-            "cpf_cnpj": "152.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SOUZA",
-            "cpf_cnpj": "092.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE SOUZA DE PAULA",
-            "cpf_cnpj": "039.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE TEIXEIRA",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE TEIXEIRA MACIEL",
-            "cpf_cnpj": "136.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE TEIXEIRA PEQUENO DA SILVA",
-            "cpf_cnpj": "026.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE TORRES BIANCHI",
-            "cpf_cnpj": "223.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE VALADARES DE SA FONTES",
-            "cpf_cnpj": "133.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE VALENTIM DA COSTA",
-            "cpf_cnpj": "136.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE VASCONCELOS REIS",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE VIANA COLARES",
-            "cpf_cnpj": "099.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE VIANA DA SILVA",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE VIEIRA CARDOSO",
-            "cpf_cnpj": "113.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUE XISMENDES AZEVEDO",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO HENRIQUES FERNANDES DE ARAUJO",
-            "cpf_cnpj": "099.**********"
-        },
-        {
-            "nome_parte": "PEDRO HERMANNY DINIZ",
-            "cpf_cnpj": "032.**********"
-        },
-        {
-            "nome_parte": "PEDRO HIUD SA RIBEIRO",
-            "cpf_cnpj": "058.**********"
-        },
-        {
-            "nome_parte": "PEDRO HUDSON CAMARGO BARROS",
-            "cpf_cnpj": "013.**********"
-        },
-        {
-            "nome_parte": "PEDRO IGNACIO DA PAIXAO FILHO",
-            "cpf_cnpj": "050.**********"
-        },
-        {
-            "nome_parte": "PEDRO IGOR DE SOUZA SILVA",
-            "cpf_cnpj": "139.**********"
-        },
-        {
-            "nome_parte": "PEDRO INACIO DE OLIVEIRA",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "PEDRO INACIO DIAS",
-            "cpf_cnpj": "201.**********"
-        },
-        {
-            "nome_parte": "PEDRO IRIS OLIVEIRA SOUZA BRITO",
-            "cpf_cnpj": "078.**********"
-        },
-        {
-            "nome_parte": "PEDRO ISAQUE DOS SANTOS NEVES",
-            "cpf_cnpj": "089.**********"
-        },
-        {
-            "nome_parte": "PEDRO ISMAR MOTA",
-            "cpf_cnpj": "430.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO BOA SORTE VARGAS",
-            "cpf_cnpj": "022.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO CORDEIRO DE SOUZA",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO DINIZ COSTA",
-            "cpf_cnpj": "058.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO FERREIRA DE LIMA",
-            "cpf_cnpj": "021.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO GONDIM FONSECA",
-            "cpf_cnpj": "016.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO MALSCHITZKY CRESPO",
-            "cpf_cnpj": "556.**********"
-        },
-        {
-            "nome_parte": "PEDRO IVO PEDROSA FREITAS",
-            "cpf_cnpj": "078.**********"
-        },
-        {
-            "nome_parte": "PEDRO JARDEL CABRAL VIDAL",
-            "cpf_cnpj": "070.**********"
-        },
-        {
-            "nome_parte": "PEDRO JARDIM GASPARINI",
-            "cpf_cnpj": "924.**********"
-        },
-        {
-            "nome_parte": "PEDRO JEREMIAS HUNGARO",
-            "cpf_cnpj": "126.**********"
-        },
-        {
-            "nome_parte": "PEDRO JEREMIAS HUNGARO 12605683699",
-            "cpf_cnpj": "25.9**************"
-        },
-        {
-            "nome_parte": "PEDRO JESTINS GATI",
-            "cpf_cnpj": "015.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE ALVES PEREIRA",
-            "cpf_cnpj": "829.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE CAMARA SILVA",
-            "cpf_cnpj": "819.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE CIFUENTES GONCALVES",
-            "cpf_cnpj": "328.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE DA SILVA",
-            "cpf_cnpj": "318.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE DA SILVA",
-            "cpf_cnpj": "045.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE DE BARROS NETO",
-            "cpf_cnpj": "028.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE DE OLIVEIRA",
-            "cpf_cnpj": "690.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE GUSMAO",
-            "cpf_cnpj": "309.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE LELES DA SILVA",
-            "cpf_cnpj": "456.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE PEREIRA",
-            "cpf_cnpj": "015.**********"
-        },
-        {
-            "nome_parte": "PEDRO JOSE SOARES FILHO",
-            "cpf_cnpj": "074.**********"
-        },
-        {
-            "nome_parte": "PEDRO JULIO AVELINO",
-            "cpf_cnpj": "137.**********"
-        },
-        {
-            "nome_parte": "PEDRO JUNIO DA SILVA BARROS",
-            "cpf_cnpj": "091.**********"
-        },
-        {
-            "nome_parte": "PEDRO JUNIO DE PAULA DRUMOND",
-            "cpf_cnpj": "129.**********"
-        },
-        {
-            "nome_parte": "PEDRO LAPORTE PRADO",
-            "cpf_cnpj": "067.**********"
-        },
-        {
-            "nome_parte": "PEDRO LEANDRO FERREIRA VERTELO",
-            "cpf_cnpj": "120.**********"
-        },
-        {
-            "nome_parte": "PEDRO LEONARDO MARTINS LEAO DA FONSECA",
-            "cpf_cnpj": "146.**********"
-        },
-        {
-            "nome_parte": "PEDRO LEONARDO OLIVEIRA DA COSTA",
-            "cpf_cnpj": "013.**********"
-        },
-        {
-            "nome_parte": "PEDRO LEOPOLDO RODEIO SHOW LTDA.",
-            "cpf_cnpj": "30.3**************"
-        },
-        {
-            "nome_parte": "PEDRO LEVI DA SILVA BASILIO",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO LINS DE ALMEIDA",
-            "cpf_cnpj": "179.**********"
-        },
-        {
-            "nome_parte": "PEDRO LOPES CANCADO",
-            "cpf_cnpj": "000.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCAS DA SILVA BRANDAO",
-            "cpf_cnpj": "144.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCAS DE ALVARENGA PEREIRA",
-            "cpf_cnpj": "165.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCAS FIGUEREDO DE SALDANHA",
-            "cpf_cnpj": "151.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCAS LIMA FERREIRA",
-            "cpf_cnpj": "020.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCAS NUNES MOTTA DOS SANTOS",
-            "cpf_cnpj": "147.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCCA DE PAULA MIRANDA",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCCHESI DE SOUZA SANTOS",
-            "cpf_cnpj": "020.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCINDA GOMES",
-            "cpf_cnpj": "162.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCIO JUNIOR",
-            "cpf_cnpj": "058.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUCIO VIEIRA",
-            "cpf_cnpj": "156.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUDOVICO SPERANZA CESAR",
-            "cpf_cnpj": "003.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ ABAETE CATALANO FERREIRA DE SOUZA",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ BITTENCOURT DE MOURA JUNIOR",
-            "cpf_cnpj": "110.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ COSTA",
-            "cpf_cnpj": "264.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ COSTA AFFONSO",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ DE LIRA FILHO",
-            "cpf_cnpj": "094.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ DE SOUZA NETO",
-            "cpf_cnpj": "156.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ FRANCA CAMARGOS",
-            "cpf_cnpj": "069.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ GUERRA BRASILEIRO",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ MARON CRUZ",
-            "cpf_cnpj": "470.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ MARTINS GONCALVES",
-            "cpf_cnpj": "108.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ PATELLI ATERJE",
-            "cpf_cnpj": "074.**********"
-        },
-        {
-            "nome_parte": "PEDRO LUIZ PRATES SANTI",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "PEDRO MACHADO PEREIRA",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO MAGALHAES DA SILVA",
-            "cpf_cnpj": "998.**********"
-        },
-        {
-            "nome_parte": "PEDRO MAGALHAES LAFETA ROBERTO",
-            "cpf_cnpj": "138.**********"
-        },
-        {
-            "nome_parte": "PEDRO MALHEIROS NASCIMENTO",
-            "cpf_cnpj": "101.**********"
-        },
-        {
-            "nome_parte": "PEDRO MALHEIROS NASCIMENTO",
-            "cpf_cnpj": "21.9**************"
-        },
-        {
-            "nome_parte": "PEDRO MANCINI MAMBRINI",
-            "cpf_cnpj": "061.**********"
-        },
-        {
-            "nome_parte": "PEDRO MANSUR ALBANESE NONATO",
-            "cpf_cnpj": "011.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARCAL COSTA SILVA",
-            "cpf_cnpj": "134.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARCOS DE CARVALHO",
-            "cpf_cnpj": "418.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARIANO MARTINS PONTES",
-            "cpf_cnpj": "013.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARQUES DA SILVA",
-            "cpf_cnpj": "108.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARTINS CARIAS",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARTINS CORREA",
-            "cpf_cnpj": "083.**********"
-        },
-        {
-            "nome_parte": "PEDRO MARTINS ROCHA",
-            "cpf_cnpj": "153.**********"
-        },
-        {
-            "nome_parte": "PEDRO MATEUS DE OLIVEIRA",
-            "cpf_cnpj": "135.**********"
-        },
-        {
-            "nome_parte": "PEDRO MATEUS FIGUEIREDO REIS",
-            "cpf_cnpj": "114.**********"
-        },
-        {
-            "nome_parte": "PEDRO MATEUS RODRIGUES",
-            "cpf_cnpj": "374.**********"
-        },
-        {
-            "nome_parte": "PEDRO MATHEUS SOARES MARTINS",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "PEDRO MAURICIO BARBOSA NADER",
-            "cpf_cnpj": "086.**********"
-        },
-        {
-            "nome_parte": "PEDRO MAURICIO FAGUNDES",
-            "cpf_cnpj": "232.**********"
-        },
-        {
-            "nome_parte": "PEDRO MAURICIO SOUZA GIL DE CARVALHO",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "PEDRO MENDES",
-            "cpf_cnpj": "013.**********"
-        },
-        {
-            "nome_parte": "PEDRO MENDES FERREIRA",
-            "cpf_cnpj": "318.**********"
-        },
-        {
-            "nome_parte": "PEDRO MENDES MULLER",
-            "cpf_cnpj": "101.**********"
-        },
-        {
-            "nome_parte": "PEDRO MESSIAS GOMES",
-            "cpf_cnpj": "579.**********"
-        },
-        {
-            "nome_parte": "PEDRO MIGUEL DA CUNHA",
-            "cpf_cnpj": "017.**********"
-        },
-        {
-            "nome_parte": "PEDRO MIGUEL DE OLIVEIRA AMARAL",
-            "cpf_cnpj": "740.**********"
-        },
-        {
-            "nome_parte": "PEDRO MILITAO DO CARMO",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "PEDRO MONTEIRO DE CASTRO HERMETO",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "PEDRO MOREIRA GUEDES",
-            "cpf_cnpj": "083.**********"
-        },
-        {
-            "nome_parte": "PEDRO MOREIRA LEITE DE CASTRO",
-            "cpf_cnpj": "120.**********"
-        },
-        {
-            "nome_parte": "PEDRO MOREIRA MIRANDA",
-            "cpf_cnpj": "021.**********"
-        },
-        {
-            "nome_parte": "PEDRO MORENO",
-            "cpf_cnpj": "788.**********"
-        },
-        {
-            "nome_parte": "PEDRO MOURA COSTA FONSECA",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "PEDRO NASCIMENTO DE FIGUEIREDO",
-            "cpf_cnpj": "069.**********"
-        },
-        {
-            "nome_parte": "PEDRO NATHAN DE OLIVEIRA STUMPF",
-            "cpf_cnpj": "040.**********"
-        },
-        {
-            "nome_parte": "PEDRO NETTO E MATHEUS PRODUCOES ARTISTICAS LTDA",
-            "cpf_cnpj": "41.7**************"
-        },
-        {
-            "nome_parte": "PEDRO NOCELI DE OLIVEIRA",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO NOGUEIRA DA GAMA PATURLE",
-            "cpf_cnpj": "042.**********"
-        },
-        {
-            "nome_parte": "PEDRO NOGUEIRA REZENDE CREPALDI",
-            "cpf_cnpj": "058.**********"
-        },
-        {
-            "nome_parte": "PEDRO NOLASCO VIEIRA JUNIOR",
-            "cpf_cnpj": "541.**********"
-        },
-        {
-            "nome_parte": "PEDRO NUNES DOS SANTOS JUNIOR",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "PEDRO OLIVEIRA DE PAULA",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO OLIVEIRA DE SOUZA",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO OLIVEIRA LOPES",
-            "cpf_cnpj": "114.**********"
-        },
-        {
-            "nome_parte": "PEDRO OMAR PEREIRA DE AZEVEDO",
-            "cpf_cnpj": "941.**********"
-        },
-        {
-            "nome_parte": "PEDRO OSMAR VALADARES AMARAL",
-            "cpf_cnpj": "044.**********"
-        },
-        {
-            "nome_parte": "PEDRO OTAVIO ALFENAS DA SILVA",
-            "cpf_cnpj": "016.**********"
-        },
-        {
-            "nome_parte": "PEDRO OTAVIO MACHADO DE ARAUJO",
-            "cpf_cnpj": "098.**********"
-        },
-        {
-            "nome_parte": "PEDRO PACE COSTA",
-            "cpf_cnpj": "114.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAIVA ABREU SA",
-            "cpf_cnpj": "215.**********"
-        },
-        {
-            "nome_parte": "PEDRO PALHARES MOREIRA",
-            "cpf_cnpj": "508.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO ALEIXO",
-            "cpf_cnpj": "933.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO ALVES DA SILVA GIACOMELI",
-            "cpf_cnpj": "106.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO BARBOSA ROCHAEL",
-            "cpf_cnpj": "105.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO BRANDI PEREIRA NETO",
-            "cpf_cnpj": "359.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO CARVALHO FRANCO",
-            "cpf_cnpj": "004.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO CHAVES DA SILVA",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO CLOTHING LTDA",
-            "cpf_cnpj": "42.0**************"
-        },
-        {
-            "nome_parte": "PEDRO PAULO CORREA",
-            "cpf_cnpj": "641.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DA SILVA",
-            "cpf_cnpj": "064.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE CARVALHO",
-            "cpf_cnpj": "079.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE CARVALHO",
-            "cpf_cnpj": "228.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE CARVALHO",
-            "cpf_cnpj": "282.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE FREITAS",
-            "cpf_cnpj": "130.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE LIMA",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE SALES",
-            "cpf_cnpj": "391.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE SOUZA OLIVEIRA JUNIOR",
-            "cpf_cnpj": "012.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DE TOLEDO GANGEMI",
-            "cpf_cnpj": "091.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DRUMMOND",
-            "cpf_cnpj": "435.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO DUARTE JUNIOR",
-            "cpf_cnpj": "890.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO ESTEVAM",
-            "cpf_cnpj": "635.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO FARIA",
-            "cpf_cnpj": "105.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO FERREIRA GONCALVES",
-            "cpf_cnpj": "040.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO GODINHO GOMES",
-            "cpf_cnpj": "039.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO LARA DE MOURA",
-            "cpf_cnpj": "006.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO MAIA DOS SANTOS",
-            "cpf_cnpj": "112.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO MOREIRA DE CARVALHO",
-            "cpf_cnpj": "239.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO NOGUEIRA",
-            "cpf_cnpj": "116.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO PARRELA TOBIAS",
-            "cpf_cnpj": "018.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO RIBEIRO CAVA",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO RIBEIRO DA FONSECA",
-            "cpf_cnpj": "041.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO RODRIGUES PINHEIRO",
-            "cpf_cnpj": "296.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO SILVA DE OLIVEIRA",
-            "cpf_cnpj": "108.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO SOUSA RAIMUNDI",
-            "cpf_cnpj": "879.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO VALVERDE PEDROSA",
-            "cpf_cnpj": "319.**********"
-        },
-        {
-            "nome_parte": "PEDRO PAULO VITOR DA PAIXAO",
-            "cpf_cnpj": "880.**********"
-        },
-        {
-            "nome_parte": "PEDRO PENNA FIUZA",
-            "cpf_cnpj": "120.**********"
-        },
-        {
-            "nome_parte": "PEDRO PERDIGAO RUAS",
-            "cpf_cnpj": "118.**********"
-        },
-        {
-            "nome_parte": "PEDRO PEREIRA DA SILVA NETO",
-            "cpf_cnpj": "038.**********"
-        },
-        {
-            "nome_parte": "PEDRO PEREIRA DE AMORIM",
-            "cpf_cnpj": "702.**********"
-        },
-        {
-            "nome_parte": "PEDRO PEREIRA DE JESUS",
-            "cpf_cnpj": "305.**********"
-        },
-        {
-            "nome_parte": "PEDRO PEREIRA DE PAULA",
-            "cpf_cnpj": "388.**********"
-        },
-        {
-            "nome_parte": "PEDRO PERREIRA DE MIRANDA",
-            "cpf_cnpj": "250.**********"
-        },
-        {
-            "nome_parte": "PEDRO PHELIPE ALVES NETTO",
-            "cpf_cnpj": "089.**********"
-        },
-        {
-            "nome_parte": "PEDRO PINTO DE CARVALHO",
-            "cpf_cnpj": "132.**********"
-        },
-        {
-            "nome_parte": "PEDRO PINTO DOS SANTOS NETO",
-            "cpf_cnpj": "074.**********"
-        },
-        {
-            "nome_parte": "PEDRO QUEIROZ DE CASTRO",
-            "cpf_cnpj": "064.**********"
-        },
-        {
-            "nome_parte": "PEDRO QUEIROZ VEIGA DE ALMEIDA",
-            "cpf_cnpj": "143.**********"
-        },
-        {
-            "nome_parte": "PEDRO QUEIROZ VEIGA DE ALMEIDA 14330907674",
-            "cpf_cnpj": "47.8**************"
-        },
-        {
-            "nome_parte": "PEDRO RABELO DA SILVEIRA",
-            "cpf_cnpj": "014.**********"
-        },
-        {
-            "nome_parte": "PEDRO RAYMUNDO TACCHI",
-            "cpf_cnpj": "102.**********"
-        },
-        {
-            "nome_parte": "PEDRO REDEMPTOR GUIDI",
-            "cpf_cnpj": "015.**********"
-        },
-        {
-            "nome_parte": "PEDRO RENATO PEREIRA BARROS",
-            "cpf_cnpj": "729.**********"
-        },
-        {
-            "nome_parte": "PEDRO RENNO BERNARDI",
-            "cpf_cnpj": "110.**********"
-        },
-        {
-            "nome_parte": "PEDRO REZENDE E SILVA",
-            "cpf_cnpj": "023.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROBERTO DE SOUZA",
-            "cpf_cnpj": "317.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROBERTO RESENDE PINHEIRO",
-            "cpf_cnpj": "009.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROBERTO ROMANO",
-            "cpf_cnpj": "131.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROCHA DIAS",
-            "cpf_cnpj": "072.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROCHA DOS SANTOS",
-            "cpf_cnpj": "006.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROCHA FELIX",
-            "cpf_cnpj": "198.**********"
-        },
-        {
-            "nome_parte": "PEDRO ROCHA GUILHERME",
-            "cpf_cnpj": "620.**********"
-        },
-        {
-            "nome_parte": "PEDRO RODRIGUES COELHO",
-            "cpf_cnpj": "076.**********"
-        },
-        {
-            "nome_parte": "PEDRO RODRIGUES COELHO SOCIEDADE INDIVIDUAL DE ADVOCACIA",
-            "cpf_cnpj": "41.8**************"
-        },
-        {
-            "nome_parte": "PEDRO RODRIGUES DE SOUZA",
-            "cpf_cnpj": "992.**********"
-        },
-        {
-            "nome_parte": "PEDRO RODRIGUES DOS REIS",
-            "cpf_cnpj": "268.**********"
-        },
-        {
-            "nome_parte": "PEDRO RODRIGUES PEREIRA",
-            "cpf_cnpj": "102.**********"
-        },
-        {
-            "nome_parte": "PEDRO RODRIGUES SONGO",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "PEDRO RUFINO LIMA DE FREITAS",
-            "cpf_cnpj": "041.**********"
-        },
-        {
-            "nome_parte": "PEDRO SABINO EVARISTO DE ARAUJO NUNES",
-            "cpf_cnpj": "139.**********"
-        },
-        {
-            "nome_parte": "PEDRO SALES FERREIRA",
-            "cpf_cnpj": "124.**********"
-        },
-        {
-            "nome_parte": "PEDRO SALOMAO SOARES",
-            "cpf_cnpj": "015.**********"
-        },
-        {
-            "nome_parte": "PEDRO SALVADOR DE OLIVEIRA",
-            "cpf_cnpj": "053.**********"
-        },
-        {
-            "nome_parte": "PEDRO SANGLARD LTDA",
-            "cpf_cnpj": "54.8**************"
-        },
-        {
-            "nome_parte": "PEDRO SANGLARD PIMENTA",
-            "cpf_cnpj": "043.**********"
-        },
-        {
-            "nome_parte": "PEDRO SANTIAGO DE MORAES",
-            "cpf_cnpj": "216.**********"
-        },
-        {
-            "nome_parte": "PEDRO SCARPELLI CASTILHO",
-            "cpf_cnpj": "315.**********"
-        },
-        {
-            "nome_parte": "PEDRO SCHETTINO CAMPOS ASSUMPCAO",
-            "cpf_cnpj": "076.**********"
-        },
-        {
-            "nome_parte": "PEDRO SERGIO DA CUNHA PIRES",
-            "cpf_cnpj": "001.**********"
-        },
-        {
-            "nome_parte": "PEDRO SERGIO LOZAR",
-            "cpf_cnpj": "009.**********"
-        },
-        {
-            "nome_parte": "PEDRO SERGIO RIBEIRO MAIA",
-            "cpf_cnpj": "147.**********"
-        },
-        {
-            "nome_parte": "PEDRO SERVO DE JESUS ROCHA",
-            "cpf_cnpj": "000.**********"
-        },
-        {
-            "nome_parte": "PEDRO SILVA DE ALMEIDA",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO SILVERIO DA SILVA",
-            "cpf_cnpj": "165.**********"
-        },
-        {
-            "nome_parte": "PEDRO SIMOES DA SILVA",
-            "cpf_cnpj": "195.**********"
-        },
-        {
-            "nome_parte": "PEDRO SOARES FERREIRA",
-            "cpf_cnpj": "120.**********"
-        },
-        {
-            "nome_parte": "PEDRO SOARES MACIEL",
-            "cpf_cnpj": "033.**********"
-        },
-        {
-            "nome_parte": "PEDRO SOUSA RODRIGUES",
-            "cpf_cnpj": "117.**********"
-        },
-        {
-            "nome_parte": "PEDRO SOUZA PINTO",
-            "cpf_cnpj": "053.**********"
-        },
-        {
-            "nome_parte": "PEDRO SPOLAOR DE OLIVEIRA",
-            "cpf_cnpj": "105.**********"
-        },
-        {
-            "nome_parte": "PEDRO TAVARES LIMA",
-            "cpf_cnpj": "040.**********"
-        },
-        {
-            "nome_parte": "PEDRO TEIXEIRA DA CUNHA",
-            "cpf_cnpj": "186.**********"
-        },
-        {
-            "nome_parte": "PEDRO TEIXEIRA DE ARAUJO",
-            "cpf_cnpj": "104.**********"
-        },
-        {
-            "nome_parte": "PEDRO TEIXEIRA E CASTRO",
-            "cpf_cnpj": "067.**********"
-        },
-        {
-            "nome_parte": "PEDRO THEODOLINO DA SILVA NETO",
-            "cpf_cnpj": "192.**********"
-        },
-        {
-            "nome_parte": "PEDRO THOMAS SANTOS VELHO",
-            "cpf_cnpj": "121.**********"
-        },
-        {
-            "nome_parte": "PEDRO TOFANI MOTTA",
-            "cpf_cnpj": "080.**********"
-        },
-        {
-            "nome_parte": "PEDRO UBALDINO PINTO NETO",
-            "cpf_cnpj": "042.**********"
-        },
-        {
-            "nome_parte": "PEDRO URBANO RODRIGUES DOS SANTOS",
-            "cpf_cnpj": "517.**********"
-        },
-        {
-            "nome_parte": "PEDRO VALADARES GONTIJO",
-            "cpf_cnpj": "090.**********"
-        },
-        {
-            "nome_parte": "PEDRO VASCONCELLOS DINIZ",
-            "cpf_cnpj": "012.**********"
-        },
-        {
-            "nome_parte": "PEDRO VICENTE CASITA",
-            "cpf_cnpj": "024.**********"
-        },
-        {
-            "nome_parte": "PEDRO VICENTE DE OLIVEIRA",
-            "cpf_cnpj": "399.**********"
-        },
-        {
-            "nome_parte": "PEDRO VICTOR DE EYMAR COUTO",
-            "cpf_cnpj": "148.**********"
-        },
-        {
-            "nome_parte": "PEDRO VICTOR MENDES DOS REIS",
-            "cpf_cnpj": "125.**********"
-        },
-        {
-            "nome_parte": "PEDRO VICTOR MOREIRA DE OLIVEIRA",
-            "cpf_cnpj": "111.**********"
-        },
-        {
-            "nome_parte": "PEDRO VICTOR SILVA DE ANDRADE",
-            "cpf_cnpj": "059.**********"
-        },
-        {
-            "nome_parte": "PEDRO VIEGAS DE MORAIS",
-            "cpf_cnpj": "578.**********"
-        },
-        {
-            "nome_parte": "PEDRO VIEIRA DE JESUS",
-            "cpf_cnpj": "418.**********"
-        },
-        {
-            "nome_parte": "PEDRO VIEIRA DOS SANTOS",
-            "cpf_cnpj": "902.**********"
-        },
-        {
-            "nome_parte": "PEDRO VILANO",
-            "cpf_cnpj": "164.**********"
-        },
-        {
-            "nome_parte": "PEDRO VINICIUS DE FREITAS GOMES BARBOSA",
-            "cpf_cnpj": "123.**********"
-        },
-        {
-            "nome_parte": "PEDRO VINICIUS NOVAIS GOIS",
-            "cpf_cnpj": "109.**********"
-        },
-        {
-            "nome_parte": "PEDRO VITOR SANTOS DELAMONICA",
-            "cpf_cnpj": "074.**********"
-        },
-        {
-            "nome_parte": "PEDRO VON RONDON DE DEUS",
-            "cpf_cnpj": "134.**********"
-        },
-        {
-            "nome_parte": "PEDRO WILLIAM DE OLIVEIRA",
-            "cpf_cnpj": "356.**********"
-        },
-        {
-            "nome_parte": "PEDRO XAVIER LEANDRO",
-            "cpf_cnpj": "036.**********"
-        },
-        {
-            "nome_parte": "PEDRO YAN OLIVEIRA FERREIRA",
-            "cpf_cnpj": "069.**********"
-        },
-        {
-            "nome_parte": "PEDRO YUKIO MURAMOTO MEDEIROS CAETANO",
-            "cpf_cnpj": "151.**********"
-        },
-        {
-            "nome_parte": "PEDRO ZATTAR EUGENIO",
-            "cpf_cnpj": "075.**********"
-        },
-        {
-            "nome_parte": "PEDRO ZEFERINO",
-            "cpf_cnpj": "230.**********"
-        },
-        {
-            "nome_parte": "PEDRO ZUPO CAMPOS",
-            "cpf_cnpj": "066.**********"
-        },
-        {
-            "nome_parte": "RAFAEL PEDRO DE OLIVEIRA",
-            "cpf_cnpj": "018.**********"
-        },
-        {
-            "nome_parte": "RESTAURANTE PEDRO II LTDA",
-            "cpf_cnpj": "30.7**************"
-        },
-        {
-            "nome_parte": "RODRIGO VALERIO COSTA PEDRO",
-            "cpf_cnpj": "054.**********"
-        },
-        {
-            "nome_parte": "ROMEU PEDRO PEREIRA",
-            "cpf_cnpj": "327.**********"
-        },
-        {
-            "nome_parte": "RONILSON PEDRO DA TRINDADE",
-            "cpf_cnpj": "700.**********"
-        },
-        {
-            "nome_parte": "RONILSON PEDRO DA TRINDADE JUNIOR",
-            "cpf_cnpj": "078.**********"
-        },
-        {
-            "nome_parte": "SEBASTIÃO PEDRO CUNHA",
-            "cpf_cnpj": "264.**********"
-        },
-        {
-            "nome_parte": "SEBASTIAO PEDRO DA CRUZ",
-            "cpf_cnpj": "347.**********"
-        },
-        {
-            "nome_parte": "SEBASTIAO PEDRO DE ANDRADE",
-            "cpf_cnpj": "871.**********"
-        },
-        {
-            "nome_parte": "SEBASTIAO PEDRO DE MATOS",
-            "cpf_cnpj": "203.**********"
-        },
-        {
-            "nome_parte": "SEBASTIAO PEDRO SANTANA",
-            "cpf_cnpj": "221.**********"
-        },
-        {
-            "nome_parte": "SERGIO PEDRO DA SILVA",
-            "cpf_cnpj": "977.**********"
-        },
-        {
-            "nome_parte": "SILAS PATRIK PEDRO DA SILVA",
-            "cpf_cnpj": "103.**********"
-        },
-        {
-            "nome_parte": "SILAS PEDRO DE CARVALHO",
-            "cpf_cnpj": "465.**********"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO ARAUJO RIBEIRO",
-            "cpf_cnpj": "036.**********"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO BRAGA DA SILVA",
-            "cpf_cnpj": "939.**********"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO DA SILVA",
-            "cpf_cnpj": "09.1**************"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO DA SILVA",
-            "cpf_cnpj": "081.**********"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO DOS SANTOS NOGUEIRA",
-            "cpf_cnpj": "250.**********"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO MARIA BOMTEMPO",
-            "cpf_cnpj": "060.**********"
-        },
-        {
-            "nome_parte": "SIMAO PEDRO PERSILVA PARATELLA",
-            "cpf_cnpj": "016.**********"
-        },
-        {
-            "nome_parte": "SOCIEDADE EDUCADORA PEDRO II LTDA",
-            "cpf_cnpj": "17.2**************"
-        },
-        {
-            "nome_parte": "SORAYA MARIA CHAVES PEDRO FERNANDES BARRETO",
-            "cpf_cnpj": "674.**********"
-        },
-        {
-            "nome_parte": "TIAGO PEDRO PIRES",
-            "cpf_cnpj": "064.**********"
-        },
-        {
-            "nome_parte": "UNIAO MUNICIPAL DOS ESTUDANTES DE PEDRO LEOPOLDO - UMEPLE",
-            "cpf_cnpj": "21.8**************"
-        },
-        {
-            "nome_parte": "VALDENIO RENATO PEDRO",
-            "cpf_cnpj": "027.**********"
-        },
-        {
-            "nome_parte": "VALDIMIR PEDRO MARTINS VELOSO",
-            "cpf_cnpj": "067.**********"
-        },
-        {
-            "nome_parte": "VALTER PEDRO PEREIRA",
-            "cpf_cnpj": "370.**********"
-        },
-        {
-            "nome_parte": "VANDERLEI PEDRO DA SILVA",
-            "cpf_cnpj": "19.9**************"
-        },
-        {
-            "nome_parte": "VANDERLEI PEDRO DA SILVA",
-            "cpf_cnpj": "066.**********"
-        },
-        {
-            "nome_parte": "VIACAO SAO PEDRO LTDA",
-            "cpf_cnpj": "18.6**************"
-        },
-        {
-            "nome_parte": "WILSON PEDRO COSTA",
-            "cpf_cnpj": "000.**********"
-        },
-        {
-            "nome_parte": "WILSON PEDRO DE ANDRADE",
-            "cpf_cnpj": "048.**********"
-        },
-        {
-            "nome_parte": "WISNER PEDRO CUNHA",
-            "cpf_cnpj": "108.**********"
-        }
-    ]
+    "PAULO SALIM MALUF": []
 }
